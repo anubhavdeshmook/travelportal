@@ -24,9 +24,9 @@ class DestinationPageController extends Controller
      * @return Response
      */
     public function index(DestinationPage $destinationpage)
-    {  
-       
-        DB::beginTransaction();   
+    {
+
+        DB::beginTransaction();
         try {
             $destinationpages = DestinationPage::with('Country')->sortable()->latest()->paginate(config('app.limit'))->withQueryString();
 
@@ -72,14 +72,14 @@ class DestinationPageController extends Controller
         }
         return view('backend.destinationpages.create',compact('country'));
     }
-    
+
     /**
      * Edit the form for creating a resource.
      * @return Response
      */
     public function edit(DestinationPage $destionationpage,$id)
     {
-        
+
         DB::beginTransaction();
         try {
             $destinationpage = DestinationPage::find($id);
@@ -93,7 +93,7 @@ class DestinationPageController extends Controller
         } catch (Exception $exception) {
             DB::rollBack();
             redirect()->route('admin.destination.page.create')->with("status", $exception->getMessage());
-    
+
         }
         return view('backend.destinationpages.edit', compact('destinationpage','country','detinationimages'));
     }
@@ -105,19 +105,19 @@ class DestinationPageController extends Controller
     public function save(DestinationPageRequest $request)
    {
        DB::beginTransaction();
- 
-        try{  
+
+        try{
             $requestData = $request->all();
-            $requestData['status'] = (isset($requestData['status'])) ? 1 : 0;  
-            $destination= DestinationPage::create($requestData);          
-            DB::commit();          
-            
+            $requestData['status'] = (isset($requestData['status'])) ? 1 : 0;
+            $destination= DestinationPage::create($requestData);
+            DB::commit();
+
         }
         catch (Exception $exception) {
             DB::rollBack();
             redirect()->route('admin.destination.page.create')->with("status", $exception->getMessage());
         }
-        
+
         return redirect()->route('admin.destination.page.edit',[$destination->id, "#image-tab"])->with("status", "Your record has been saved successfully.");
     }
 
@@ -127,18 +127,26 @@ class DestinationPageController extends Controller
     */
 
     public function update(DestinationPageRequest $request)
-    {      
+    {
 
         DB::beginTransaction();
         $destionationpages = DestinationPage::all();
         $destionationpage = DestinationPage::find($request->id);
         $requestData = $request->all();
-        $requestData['status'] = (isset($requestData['status'])) ? 1 : 0;  
+        $requestData['status'] = (isset($requestData['status'])) ? 1 : 0;
         if (empty($destionationpage)) {
             throw new Exception("Destionation page not found");
         }
         $destionationpage->fill($requestData)->save();
         DB::commit();
+        try{
+
+        }
+        catch (Exception $exception) {
+            DB::rollBack();
+
+            redirect()->route('admin.destination.page.edit',$request->id)->with("status", $exception->getMessage());
+        }
         return redirect()->route('admin.destination.page')->with("status", "Your record has been updated successfully.");
     }
 
@@ -147,7 +155,7 @@ class DestinationPageController extends Controller
     * @return Response
     */
     public function delete(Request $request)
-    { 
+    {
         DB::beginTransaction();
         $id = $request->id;
         try {
@@ -193,53 +201,53 @@ class DestinationPageController extends Controller
             DB::commit();
         } catch (\Exception $exception){
             DB::rollBack();
-            redirect()->route('admin.destination.page')->with('success', 'Saved!'); 
+            redirect()->route('admin.destination.page')->with('success', 'Saved!');
         }
         return redirect()->route('admin.destination.page')->with("status", "Status updated successfully.");
-        
+
     }
 
     public function imagesupdate(DestinationImageRequest $request){
-        
+
         $finddestintion = DestinationImage::where('id',$request->destination_id)->first();
 
         if($finddestintion){
             $deleteimages = DestinationImage::where('id',$request->destination_id)->delete();
             if($request->hasfile('image'))
             {
-   
+
                foreach($request->file('image') as $image)
-               {   
+               {
                    $form= new DestinationImage();
                    $form->destination= $request->destination_id;
                    $name=$image->getClientOriginalName();
-                   $image->move(public_path().'/public/backend/destination', $name);  
-                   $data = $name;  
+                   $image->move(public_path().'/public/backend/destination', $name);
+                   $data = $name;
                    $form->image=$data;
-                   $form->save();                
+                   $form->save();
                }
-            } 
+            }
 
         }else{
             if($request->hasfile('image'))
             {
-   
+
                foreach($request->file('image') as $image)
-               {   
+               {
                    $form= new DestinationImage();
                    $form->destination= $request->destination_id;
                    $name=$image->getClientOriginalName();
-                   $image->move(public_path().'/public/backend/destination', $name);  
-                   $data = $name;  
+                   $image->move(public_path().'/public/backend/destination', $name);
+                   $data = $name;
                    $form->image=$data;
-                   $form->save();                
+                   $form->save();
                }
-            } 
+            }
 
         }
-        
-         
-       
+
+
+
 
         return redirect()->route('admin.destination.page')->with("status", "Record updated successfully.");
 
