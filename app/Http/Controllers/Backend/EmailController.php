@@ -96,14 +96,6 @@ class EmailController extends Controller
             $requestData['status'] = (isset($requestData['status'])) ? 1 : 0;           
             Email::create($requestData);          
             DB::Commit();
-        try{        
-            
-         
-        }
-        catch (Exception $exception) {
-            DB::rollBack();
-            redirect()->route('admin.email.create')->with("status", $exception->getMessage());
-        }
         
         return redirect()->route('admin.email')->with("status", "Your record has been saved successfully.");
     }
