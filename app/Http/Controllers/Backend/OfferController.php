@@ -102,14 +102,6 @@ class OfferController extends Controller
             $requestData['status'] = (isset($requestData['status'])) ? 1 : 0;           
             Offer::create($requestData);          
             DB::Commit();
-        try{    
-            
-         
-        }
-        catch (Exception $exception) {
-            DB::rollBack();
-            redirect()->route('admin.offers.create')->with("status", $exception->getMessage());
-        }
         
         return redirect()->route('admin.offers')->with("status", "Your record has been saved successfully.");
     }

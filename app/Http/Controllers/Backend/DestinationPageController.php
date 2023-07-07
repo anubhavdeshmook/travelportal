@@ -139,14 +139,6 @@ class DestinationPageController extends Controller
         }
         $destionationpage->fill($requestData)->save();
         DB::commit();
-        try{
-          
-        }
-        catch (Exception $exception) {
-            DB::rollBack();
-
-            redirect()->route('admin.destination.page.edit',$request->id)->with("status", $exception->getMessage());
-        }
         return redirect()->route('admin.destination.page')->with("status", "Your record has been updated successfully.");
     }
 

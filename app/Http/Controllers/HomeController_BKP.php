@@ -397,17 +397,6 @@ class HomeController extends Controller
         $signature = hash("sha256", $apiKey . $sharedSecret . time());
         $minRateKey = '';
 
-        if (!empty($hotel_previous_page_data)) {
-
-            // foreach ($hotel_previous_page_data->rooms as $key => $value) {
-            //     foreach ($value->rates as $key1 => $value1) {
-            //         if (!empty($value1) && !empty($value1->net) == $hotel_previous_page_data->minRate) {
-            //             $minRateKey = $value1->rateKey;
-            //         }
-            //     }
-            // }
-        }
-
         if (!empty($id)) {
             $curl2 = curl_init();
             curl_setopt_array($curl2, array(
