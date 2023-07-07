@@ -1,0 +1,1208 @@
+@media screen and (max-width: 1600px){
+	.popular-travel-section .main-heading h2 {padding: 22px 0;}
+	.popular-travel-section .main-heading h2::before {font-size: 110px;} 
+	.last-offer-section { padding: 60px 0 40px;}
+	.news-letter-section { padding: 60px 0 0;}
+	.news-letter-section .main-heading h2 {margin-bottom: 25px;}
+	.best-deal-section .main-heading h2 {margin-bottom: 50px;}
+	.best-deal-section {padding: 60px 0;} 
+  
+   /*destiontion dtl page css*/
+	.destination-dtl-slider .owl-nav .owl-prev::before,
+	.destination-dtl-slider .owl-nav .owl-next::before {font-size: 25px; width: 45px;  height: 45px;line-height: 45px;} 
+   .destination-dtl-slider .owl-nav .owl-prev::before {left: -60px;}
+   .destination-dtl-slider .owl-nav .owl-next::before {right: -60px;}
+   /*destiontion dtl page css*/
+}     
+
+@media screen and (max-width: 1400px){
+	.logo-row .container { padding-top: 15px;}
+	.inner-header .logo-row .container {padding-bottom: 15px;}
+	.logo{max-width: 230px;}
+	.home-banner-contain {max-width: 1170px; margin-top: 30px;}  
+	.home-banner-contain h1 {font-size: 42px;line-height: 38px;}  
+	.home-banner {height: 650px;}  
+	.main-heading h2 {font-size: 32px; line-height: 30px; margin-bottom: 35px;} 
+	.popular-place-row figure figcaption a {padding: 10px 20px;}
+	.best-deal-section {padding: 50px 0;} 
+	.best-deal-title { font-size: 30px; line-height: 30px; margin-bottom: 10px;}
+	.best-deal-contain .contain-box figure {margin: 0 0 25px;} 
+	.famous-destination-section .main-heading .img-box { margin-bottom: 25px;}  
+	.famous-destination-section .main-heading h2 { font-size: 46px; line-height: 45px; margin-bottom: 23px;} 
+	.destination-links {margin-top: 35px;}
+	.destination-links li {line-height: 20px;font-size: 20px; margin-bottom: 14px;}
+	.hot-month-heading {font-size: 32px; line-height: 34px; margin-bottom: 5px;}
+	.count-row { margin: 45px auto 45px;}
+	.plan-list {margin-bottom: 20px;}
+	.price { font-size: 35px;line-height: 28px;}
+	.testimonial-section .testimonial-contain .testimonial-left .title-text {font-size: 38px; line-height: 45px;}
+	.quot-box .img-box {width: 155px;  height: 155px;  border-radius: 100%;}
+	.discount span {font-size: 30px;} 
+	.last-offer-box .last-offer-dtl .contain-box {padding: 15px 0 0 15px;}
+	.last-offer-box .last-offer-dtl .place-box, 
+	.last-offer-box .last-offer-dtl .last-offer-title {font-size: 20px;  line-height: 18px; margin-bottom: 10px;}
+	.last-offer-box {padding-top: 40px;}
+	.last-offer-section .main-heading h2 {margin-bottom: 25px;}
+	.popular-travel-slider .items figure {height: 470px;}
+	.best-deal-contain .contain-box {padding-right: 70px;}
+	.two-item-box ul li {padding: 15px 10px;}
+	.flight-book-form .form-group {padding: 15px 10px;}
+	.two-item-box ul {margin: 0 -10px;}
+	.popular-travel-slider .popular-place-box {  max-width: 380px; padding: 25px 0 40px;}
+	.hot-month-section .container {left: 0;}
+	.count-row li strong {font-size: 30px;line-height: 25px;}
+	.country-name {font-size: 22px;}
+	.hot-month-section {padding: 60px 0;}
+	/*05-08-2020*/
+	.inner-banner .inner-banner-caption h1 {font-size: 30px; margin-bottom: 10px; line-height: 40px;}
+	.flight-search {padding: 30px 0 30px 55px;}
+	.flight-search-form .custom-btn {width: 150px;}
+	.flight-search-form .form-control::placeholder { font-size: 15px;}
+	.filter-search li {font-size: 15px;}
+	.inner-middle-section {padding: 50px 0;} 
+	.short-box ul li {font-size: 14px;}
+	.custom-pagination li a {height: 35px;  padding: 4px 6px; min-width: 35px;}
+	.flight-result .logo-row .container{padding-bottom: 15px;}
+	.filter-dropdown-section {padding: 0 0 30px;} 
+	/*05-08-2020*/ 
+
+	/*flight-det-css*/
+	.flight-book-heading h4 {font-size: 20px;}
+	.flight-book-heading h4 img {margin-right: 6px; max-width: 25px; top: 0;}
+	.flight-book-heading h4{padding-left: 32px;}
+	.palce-box span {font-size: 16px;}
+	.form-section .btn-box .custom-btn.blue-btn {height: 50px;line-height: 50px;}
+	.form-contain-box h5 {margin-bottom: 15px;	font-size: 18px;}
+	.form-contain-box h6 {font-size: 16px;}
+	.flight-book-row .flight-book-col::before, 
+	.flight-book-row .flight-book-col::after {width: 25px; height: 25px;}
+	.flight-payment-section .flight-payment-heading {font-size: 20px;margin-bottom: 12px;}
+	.flight-payment-section .flight-payment-contain .flight-payment-contain-items {margin-bottom: 25px;}
+	.flight-book-section .flight-contain-section {margin-bottom: 25px;}
+	.hotel-contain-section .hotel-inner-section .hotel-contain .hotel-contain-hdr {	font-size: 20px; line-height: 22px;}
+	.hotel-contain-section .hotel-contain .hotel-contain-bottom .hotel-chk-outer .hotel-chk-box .big-date-text {font-size: 28px; line-height: 30px;}
+	.flight-payment-section .payment-box .price-row .pay-price {font-size: 20px !important; }
+	.flight-payment-section .payment-box .price-row .total-price {font-size: 18px !important;}   
+	/*flight-det-css*/
+
+	/*hotel-det-css*/
+	.hotel-detail-contain {margin-bottom: 40px;}
+	.hotel-detail-heading::before {width: 150px;}
+	.hotel-detail-contain p {line-height: 24px;font-size: 15px;}
+	.hotel-room-btl-row .hotel-room-btl-items {padding: 25px 10px;}
+	.hotel-room-btl-row .hotel-facilities li {line-height: 26px; margin-bottom: 13px;} 
+	.hotel-room-btl-row .sleep-text {font-size: 16px;}
+	.hotel-room-btl-row .price {font-size: 24px;}
+	.hotel-room-btl-row th { padding: 15px 10px}
+	.hotel-dtl-hdr {font-size: 25px;} 
+	.hotel-dtl-top-hdr p {font-size: 16px; line-height: 17px;}
+	.hotel-dtl-top-row .hotel-book-price .box-price-box .hotel-dtl-hdr {font-size: 26px; margin-bottom: 7px;}
+	.hotel-dtl-top-row .hotel-book-price .custom-btn {width: 155px; height: 50px; line-height: 50px; font-size: 18px;}
+	.hotel-dtl-top-row .hotel-book-price .box-price-box {margin-right: 25px;}
+	.flexslider .big-img figure .img-box img {  height: 450px !important;}
+	.dtl-slider-contain .dtl-slider-list .slider-list-items {padding: 20px 0;} 
+	.hotel-facilities-list li {margin-bottom: 12px;}
+	.dtl-slider-contain .hotel-dtl-rating-box .very-gd-text {font-size: 26px; margin-bottom: 6px; }
+	.flex-direction-nav a.flex-next::before, .flex-direction-nav a.flex-prev::before {width: 50px; height: 50px; background-size: 13px;}
+	.flex-direction-nav a {width: 50px;height: 50px;}
+	.hotel-dtl-slider-outer {margin-bottom: 50px;}
+    .hotel-room-dtl-row .hotel-room-dtl-price .price-text {font-size: 22px; margin: 18px 0;}
+    .hotel-room-dtl-row .custom-btn {font-size: 16px; height: 40px; line-height: 40px;}
+    /*27-08-2020*/ 
+    .hotel-room-dtl-row .hotel-room-dtl-price .price { font-size: 28px;}
+     /*27-08-2020*/
+	/*hotel-det-css*/ 
+    
+    /*reg popup css */
+    .registration-hdr-box .registration-hdr {font-size: 25px; line-height: 25px; margin-bottom: 15px;}
+    .registration-hdr-box {margin-bottom: 30px;}
+    .registration-form-section .user-icon {width: 85px; height: 85px; top: -43px;}
+    .form-or-text-row .text {font-size: 18px; width: 50px; height: 50px; line-height: 45px;	margin: 25px auto;}
+    .registration-form-section .user-icon img{max-width: 35px;}
+    .registration-form-section {padding-top: 70px;}
+    /*reg popup css */
+    
+    /*profile page css */
+	 .my-account-contain-hdr { font-size: 30px; line-height: 45px; margin-bottom: 15px;}
+    /*profile page css */
+
+    /*destination page css */
+    .destination-header-box, .contact-header-box {margin-bottom: 35px;}
+    .destination-header-box h2, .contact-header-box h2 {font-size: 25px;} 
+    /*destination page css */
+
+    /* contact pages css */
+    .contact-detail-section .detail-box .contain-box h5 {font-size: 22px;  margin: 20px 0 8px;}
+    .contact-form-section .contact-form-heading h3 {font-size: 40px;line-height: 35px; margin: 0 0 20px;}
+    .contact-form-section .my-account-form-box .form-group {margin-bottom: 18px;}
+      /* contact pages css */
+
+    /* destination dtl page css */
+    .destination-dtl-slider .owl-nav .owl-prev::before {left: 10px;}
+    .destination-dtl-slider .owl-nav .owl-next::before {right: 10px; }
+    .destination-detail-hotels-box .description p {font-size: 15px; padding-bottom: 12px;}
+    .destination-detail-hotels-box .description .hotel-aminities {font-size: 15px;}
+    /* destination dtl page css */
+
+    /*about page css*/
+    .about-us-contain-section {padding: 0 0 50px;}
+    .about-us-service {padding: 50px 0;}
+    .latest-news-secton {padding-top: 50px;}
+     /*about page css*/
+}
+
+@media screen and (max-width: 1199px){
+	.home-banner-contain {max-width: 975px; margin-top: 30px;} 
+	.flight-book-form .form-group label {font-size: 14px; margin-bottom: 5px;}
+	.flight-book-form .form-control::placeholder {font-size: 15px;}
+	.home-banner-tab .nav-tabs {max-width: 830px;}
+	.popular-travel-section .main-heading h2::before {font-size: 80px;}
+	.popular-travel-section .main-heading h2 {padding: 15px 0;}
+	.popular-travel-slider .items figure {height: 420px;}
+	.hot-month-heading { font-size: 28px;  line-height: 30px;}
+	.famous-destination-section .main-heading .img-box {margin-bottom: 15px;}
+	.famous-destination-section .main-heading h2 {font-size: 38px;  line-height: 40px;}
+	.quot-box .img-box { width: 130px; height: 130px;}
+	.quot-box .img-box img {max-width: 50px;}
+	.testimonial-section .testimonial-contain .testimonial-left {padding-left: 40px;}
+	.testimonial-section .testimonial-contain .testimonial-slider { padding-left: 20px;
+	padding-bottom: 30px;  padding-top: 15px;}
+	.news-letter-section .main-heading h2 {margin-bottom: 20px;}
+	.destination-links li {line-height: 18px; font-size: 18px;}
+	.main-heading h2 {margin-bottom: 25px;}
+	.ftr-links li { margin-bottom: 10px;}
+	.contact-links li {line-height: 22px; margin-bottom: 5px;}
+	/*05-08-2020*/
+	.filter-search li:first-child {text-align: center;  flex: 0 0 100%; max-width: 100%; margin-bottom: 20px;}
+	.filter-search li {flex: 0 0 16.66%; max-width: 16.66%; font-size: 14px;}
+	.listing-top-dtl .listing-col span {font-size: 15px; line-height: 16px;}   
+	/*05-08-2020*/
+	.filter-box .depart-time-box li p {font-size: 11px;}  
+
+	/*flight-det-css*/
+	.flight-book-section, .flight-payment-section{flex: 0 0 100%; max-width: 100%;}
+	.flight-book-row .flight-book-col::after {right: -40px;}
+	.flight-book-row .flight-book-col::before {left: -61px;}
+	.flight-book-row .flight-book-col::before,  
+	.flight-book-row .flight-book-col::after {width: 20px; height: 20px;}
+	.flight-book-section{margin-bottom: 30px;}
+	.promo-code-dtl .radio-custom {margin-bottom: 6px;}
+	.flight-payment-section .promo-code-dtl .btn-box {text-align: left !important; padding-left: 24px;}
+	.flight-payment-section .promo-code-dtl .form-box .form-group {max-width: 450px;}
+	.book-review-section .flight-book-heading,
+	.flight-book-heading {margin-bottom: 15px;}
+	.flight-book-section .flight-contain-section ,
+	.flight-payment-section .flight-payment-contain .flight-payment-contain-items {margin-bottom: 20px;}
+	/*flight-det-css*/
+
+	/*hotel detail page */
+	.hotel-dtl-slider-outer .hotel-dtl-slider {flex: 0 0 100%; max-width: 100%; padding-right: 0; margin-bottom: 20px;}
+	.hotel-dtl-slider-outer .dtl-slider-contain {flex: 0 0 100%; max-width: 100%; padding: 15px 20px;}
+	.hotel-facilities-list li {margin-bottom: 5px;}
+	.hotel-room-dtl-row .custom-btn {width: 130px;}
+	.hotel-room-dtl-row .hotel-room-img .img-box img {width: 220px;}
+	.room-view-row .custom-btn {width: 140px;}
+	.room-view-row .custom-btn img{margin-left: 3px;}
+	/*hotel detail page*/
+
+	/*flight dtl panel css*/
+	.flight-dtl-tab-section .nav-tabs .nav-link.active::before {bottom: -7px;}
+    /*flight dtl panel css*/
+
+   /*booking confirmation page css*/
+    .booking-confirmation-top-hdr .booking-confirmation-top-hdr-left h2 {font-size: 25px; line-height: 26px;}
+	.booking-confirmation-hdr { font-size: 22px; line-height: 30px; }
+	.booking-confirmation-section .flight-contain-section {padding: 25px;}	
+	.booking-confirmation-section .hotel-contain-section .hotel-inner-section .hotel-contain p {padding: 4px 0 6px;}
+	.booking-confirmation-section .hotel-contain-section .hotel-contain .hotel-contain-bottom {margin: 0 -20px;}
+    .booking-confirmation-section .hotel-contain-section .hotel-contain .hotel-contain-bottom .hotel-contain-bottom-col {padding: 0 20px;}
+    .booking-confirmation-section .hotel-contain-section .hotel-inner-section .hotel-contain {padding-left: 25px; padding-top: 8px;}
+    .booking-payment-detail .booking-total-amount { margin-left: -25px;  margin-right: -25px; padding: 15px 25px;}
+    /*booking confirmation page css*/
+
+    /*booking detail page css*/
+    .booking-detail-contain .flight-book-detail figure{width: 75px;}
+    .booking-detail-contain .booking-confirmation-section .flight-book-row .flight-book-detail .duration-box {padding-left: 15px;}
+    .booking-detail-contain .time-list-text li {padding: 0 6px;}
+    .booking-detail-contain .duration-col:nth-child(3) {max-width: 270px; padding: 0 8px;}
+    /*booking detail page css*/
+
+    /*contact page css*/
+    .contact-form-section {margin: -50px auto 0; padding: 50px 30px 0;}
+   /*contact page css*/
+
+   /*destination page dtl css*/
+   .destination-detail-hotels-box .description .star-rating {margin: 10px 0 10px;}
+    .destination-detail-hotels-box .description h4 {font-size: 17px;}
+    .destination-detail-hotels-box .description .hotel-aminities li { margin-bottom: 10px; line-height: 18px;}
+   /*destination page dtl css*/
+}
+ 
+
+@media screen and (max-width: 991px){ 
+	.home-banner-contain {max-width: 730px;  margin-top: 50px;}    
+	.home-banner-tab .nav-tabs .nav-item {padding: 0 25px;}
+	.best-deal-section .main-heading h2 { margin-bottom: 25px;}
+	.best-deal-contain .contain-box {padding-right: 20px;}
+	.best-deal-title { font-size: 24px; line-height: 26px;  margin-bottom: 5px;}
+	.main-heading h2 { font-size: 28px; line-height: 25px; margin-bottom: 18px;}
+	.popular-travel-section .main-heading h2::before {font-size: 65px;}
+	.popular-destination { font-size: 21px; margin-bottom: 15px;}
+	.popular-travel-slider .items figure {height: 350px;}
+	.popular-travel-slider .popular-place-box { max-width: 320px;}
+	.popular-travel-section .main-heading {margin-bottom: 25px;}
+	.last-offer-section .main-heading h2 {margin-bottom: 15px;}
+	.last-offer-section {padding: 45px 0 40px; }
+	.hot-month-contain { padding: 20px 20px;}
+	.discount {margin-bottom: 18px;}
+	.discount span {font-size: 28px;}
+	.discount span sup {font-size: 18px; left: -4px; top: -6px;}
+	.discount span {width: 70px;height: 70px; margin-right: 10px;}
+	.famous-destination-section .main-heading h2 { font-size: 28px; line-height: 30px;  margin-bottom: 18px;}
+	.destination-links li {line-height: 15px;  font-size: 15px;}
+	.flight-deal-section .main-heading h2 { font-size: 26px; margin-bottom: 10px;}
+	.flight-deal-section {padding: 45px 0;}
+	.count-row {padding-left: 140px;  margin: 30px auto;}
+	.testimonial-section .testimonial-contain .testimonial-left .title-text {font-size: 26px; line-height: 33px;}  
+	.quot-box .img-box img { max-width: 35px;}
+	.testimonial-section .testimonial-contain .testimonial-left {padding-left: 0;}
+	.testimonial-section {padding: 45px 0;}
+	.testimonial-section .testimonial-contain .testimonial-slider {padding-top: 10px;}
+	.news-letter-section {padding: 45px 0 0;}
+	.video-box { max-width: 570px; height: 250px; }
+	.video-box .custom-btn {width: 200px; height: 45px; line-height: 45px; font-size: 14px;}
+	.contact-links .address-dtl {margin-bottom: 5px;}
+	.ftr-heading {font-size: 16px; line-height: 16px; padding: 15px 0;}
+	.hot-month-section {padding: 45px 0;}
+	.quot-box .img-box { width: 100px; height: 100px;}
+	.count-row li {flex: 0 0 25%; max-width: 25%;  text-align: center;}
+	.count-row { padding-left: 0}
+	.plan-list li {font-size: 14px; line-height: 16px; margin-bottom: 10px;}
+	.country-name { line-height: 25px; margin-bottom: 12px; font-size: 24px;}
+	.plan-list { margin-bottom: 16px;}
+	.price { font-size: 26px; line-height: 22px;}
+	.popular-travel-section .main-heading p,
+	.last-offer-section .main-heading p {line-height: 26px;}
+	.best-deal-contain .contain-box figure img {max-width: 90px;}
+	.last-offer-box .star-rating {margin-bottom: 18px;}
+	.last-offer-dtl p {font-size: 14px; line-height: 20px; padding: 12px 0;}
+	.last-offer-box figure {height: 260px;}
+	.last-offer-box .last-offer-dtl .time {font-size: 15px;}
+	.last-offer-box .last-offer-dtl .time i {margin-right: 5px; font-size: 18px;}  
+	.last-offer-box .btn-box .custom-btn, .last-offer-box .btn-box .custom-btn:hover {font-size: 15px;} 
+	.hot-month-slider .owl-nav .owl-prev, .hot-month-slider .owl-nav .owl-next {width: 40px; height: 40px;}
+	.hot-month-slider .owl-nav .owl-prev img, .hot-month-slider .owl-nav .owl-next img {width: 12px;}
+	.hot-month-contain p {line-height: 26px;}
+	.famous-destination-section .main-heading .img-box img {max-width: 270px;}
+	.logo {max-width: 150px;}
+	.nav-section {padding-top: 5px;}
+	.home-banner-contain h1 {font-size: 32px; line-height: 23px; margin: 0 0 40px;}
+	.home-banner-tab .nav-tabs .icon img {max-width: 32px; max-height: 20px;}
+	.home-banner-tab .nav-tabs {max-width: 600px;}
+	.home-banner-tab .nav-tabs .nav-item .nav-link {padding: 0 0 10px;}
+	.home-banner-tab .nav-tabs .nav-item {padding: 0 20px;}
+	.home-banner-tab .nav-tabs .icon {width: 55px; height: 55px; margin-bottom: 8px;}
+	.flight-book-form .row div[class*="col-"] {margin-bottom: 10px;}
+	.contact-info { margin-right: 10px;}
+	.home-banner { height: 580px;}
+	.top-nav .nav { margin-top: 90px;}
+	.top-nav .nav li a {font-size: 25px;}
+	.top-nav .nav li {line-height: 26px;}
+	.contact-links .address-dtl span i {display: inline-block; color: #716c6c; font-size: 20px; width: 32px; padding: 0 5px;}
+	.contact-links .address-dtl span .text {display: none;}
+	/*05-08-2020*/
+/*	.inner-banner {height: 350px;}*/
+	/*.inner-banner .inner-banner-caption p {font-size: 16px;}
+	.inner-banner .inner-banner-caption h1 { font-size: 28px; margin-bottom: 6px; line-height: 36px;}*/
+	/*.inner-banner .inner-banner-caption {margin-top: 50px;}*/ 
+	.flight-search-form li { flex: 0 0 50%; max-width: 50%; margin-bottom: 15px;}
+	.flight-search-form li:last-child{ flex: 0 0 100%; max-width: 100%; margin-bottom: 0; text-align: center;}
+	.flight-search .flight-icon {left: 0; top: 30%; transform: none;}
+	.flight-search-form .custom-btn {margin-top: 10px;}
+	.inner-middle-section {padding: 40px 0;}
+	.flight-list-box, .flight-advertise-box {flex: 0 0 100%; max-width: 100%;}
+	.flight-list-box{margin-bottom: 30px;} 
+	.flight-advertise-box{display: flex; display: -webkit-flex; flex-wrap: wrap; justify-content: space-between;}
+	.flight-advertise-box figure {width: 49%;} 
+	/*05-08-2020*/
+	.flight-result .inner-banner .inner-banner-caption h1 { margin-bottom: 6px;}
+	.filter-dropdown-section {padding: 0 0 20px;} 
+
+	/*flight-dtl-css*/
+	.flight-payment-section .payment-box .price-row .total-price {font-size: 17px !important; padding-top: 14px; margin-top: 8px;}
+	.flight-payment-section .payment-box .price-row .pay-price {font-size: 18px !important; margin-top: 16px; margin-bottom: 16px; padding: 13px 0; }
+	.form-section .btn-box {margin-top: 20px;}
+	.sign-in-box .view-link {font-size: 16px;}
+	.flight-book-detail .duration-box {	padding-left: 22px;}
+	.promo-code-dtl .radio-custom input[type="radio"] + label span {font-size: 12px;}
+	.padd-30 {padding: 20px;} 
+	.flight-mode-text {left: -40px;}
+	.flight-payment-section .promo-code-dtl .view-link {font-size: 16px;}
+	.flight-payment-section .promo-code-dtl .form-box {max-width: 520px;}
+	.flight-payment-section .payment-box .price-row .pay-price::before{left: -21px; right: -21px;} 
+	.flight-book-section .flight-contain-section {margin-bottom: 25px;}
+	.flight-book-row .flight-book-col::after {right: -31px;}
+	.flight-book-row .flight-book-col::before {left: -50px;}
+	.flight-contain-section .form-contain-box:first-child {padding-bottom: 20px; margin-bottom: 20px;}
+	.time-box {line-height: 16px;}
+	.palce-box span {font-size: 15px;}
+	.meal-fear-box {margin: 20px auto 0;}
+	.form-contain-box .text-contain {margin-bottom: 15px; font-size: 15px;}
+	.sign-in-box {margin-top: 15px;}
+	.flight-book-section{margin-bottom: 20px;}
+	.form-section .btn-box .custom-btn.blue-btn {height: 40px; line-height: 40px; width: 200px;	font-size: 14px;}
+	.flight-mode-text {line-height: 21px;height: 25px;}
+	.form-contain-box .form-group {margin-bottom: 10px;}
+	.form-contain-box h5 {margin-bottom: 10px;}
+	.traveller-information-box p {font-size: 15px;}
+	.flight-contain-section .form-contain-box {margin-bottom: 20px;}
+	.optional .details-box p {font-size: 15px;}
+	.sign-in-box {font-size: 15px;}
+	.flight-payment-section .payment-box .price-row .total-price::before {left: -21px; right: -21px;} 
+	.hotel-contain-section .hotel-inner-section .hotel-contain p {font-size: 15px; line-height: 22px; padding: 6px 0;}
+	.hotel-contain-section .hotel-contain .hotel-contain-bottom .hotel-chk-outer .hotel-chk-box .title-text {font-size: 13px; line-height: 16px;} 
+	.hotel-contain-section .hotel-contain .hotel-contain-bottom .hotel-contain-bottom-col {font-size: 14px;}
+	.hotel-contain-section .hotel-contain .hotel-contain-bottom .hotel-facility-dtl li.hotel-facility-hdr {font-size: 15px;}
+	.hotel-contain-section .hotel-contain .hotel-contain-bottom {margin: 0 -5px;}
+	.hotel-contain-section .hotel-contain .hotel-contain-bottom .hotel-contain-bottom-col {padding: 0 5px;	font-size: 14px;}
+	.hotel-contain-section .hotel-contain .hotel-contain-bottom .hotel-chk-outer .hotel-chk-box .big-date-text {font-size: 24px;line-height: 21px;}
+	.hotel-contain-section .hotel-contain .hotel-contain-bottom .hotel-book-dtl .custom-btn, 
+	.hotel-contain-section .hotel-contain .hotel-contain-bottom .hotel-book-dtl .custom-btn:hover {font-size: 14px;}
+	.hotel-contain-section .hotel-contain .hotel-contain-bottom .hotel-chk-outer .hotel-chk-box {width: 90px; padding: 10px 5px;}
+	.hotel-contain-section .hotel-contain .hotel-contain-bottom .hotel-chk-outer .hotel-chk-box .date-text {font-size: 14px;}
+    /*flight-dtl-css*/
+
+	/*hotel-det-css*/
+	.hotel-detail-heading {font-size: 18px; margin-bottom: 15px; padding-bottom: 15px;}
+	.hotel-detail-heading::before {width: 90px;}
+	.table.hotel-room-tbl th {padding: 12px 10px;}
+	.table.hotel-room-tbl td {padding: 20px 10px;}
+	.hotel-room-btl-row .sleep-text {font-size: 15px;}
+	.table.hotel-room-tbl .hotel-room-btl-items{font-size: 15px;}
+	.hotel-room-btl-row .custom-btn {font-size: 15px; width: 110px; height: 35px;	line-height: 35px;}
+	.hotel-room-btl-row .hotel-facilities li {line-height: 21px;	margin-bottom: 10px;}
+	.hotel-detail-contain {margin-bottom: 30px;}
+	.hotel-dtl-hdr {font-size: 22px; margin-bottom: 6px;}
+	.hotel-dtl-top-hdr p {font-size: 15px; line-height: 14px;}
+	.hotel-dtl-top-row .hotel-book-price .box-price-box p {	line-height: 16px; font-size: 14px; }
+	.hotel-dtl-top-row .hotel-book-price .box-price-box .hotel-dtl-hdr {font-size: 22px; margin-bottom: 3px;}
+	.hotel-dtl-top-row .hotel-book-price .box-price-box {margin-right: 20px;}
+	.hotel-dtl-top-row .hotel-book-price .custom-btn {width: 125px; height: 45px; line-height: 45px; font-size: 16px;}
+	.flexslider-main, .flexslider-main .slides img{height: 350px !important;} 
+	.dtl-slider-contain .hotel-dtl-rating-box .very-gd-text {font-size: 22px; line-height: 20px;}
+	.hotel-room-btl-row .hotel-room-btl-items{flex:0 0 33.33% !important; max-width: 33.33% !important;}
+	.hotel-room-btl-row .hotel-room-btl-items:nth-child(1),
+	.hotel-room-btl-row .hotel-room-btl-items:nth-child(2), 
+	.hotel-room-btl-row .hotel-room-btl-items:nth-child(3){border-bottom: 1px solid #e7e7e7}  
+	.hotel-room-btl-row .hotel-room-btl-items:nth-child(3) {border-right:0}
+	.hotel-room-dtl-row .facilities-contain-box-hdr {font-size: 16px; line-height: 18px; margin-bottom: 10px;}
+	.hotel-room-dtl-row .hotel-middle-heading {font-size: 16px; margin: 0 0 16px; padding: 0 0 12px;}
+    .hotel-room-dtl-row .hotel-room-img .img-box img {width: 170px;}
+    .hotel-room-dtl-row .hotel-room-dtl-middle {padding: 20px 15px;}
+	.hotel-room-dtl-row .hotel-middle-facilities .facilities-items {padding-right: 10px;}
+	.hotel-room-dtl-row .hotel-middle-facilities .facilities-items:nth-child(1), 
+	.hotel-room-dtl-row .hotel-middle-facilities .facilities-items:nth-child(3){flex: 0 0 30%; max-width: 30%;}
+	.hotel-room-dtl-row .hotel-middle-facilities .facilities-items:nth-child(2) {flex: 0 0 40%; max-width: 40%;}
+	.hotel-room-dtl-row .facilities-contain-list {font-size: 14px;}
+	.hotel-room-dtl-row .facilities-contain-list .facilities-contain-items {margin-bottom: 6px;}
+	.hotel-room-dtl-row .hotel-room-dtl-price .price-text {font-size: 20px; margin: 14px 0;}
+	.hotel-room-dtl-row .hotel-room-dtl-price .price {font-size: 25px; line-height: 24px;}
+	.hotel-room-dtl-row .custom-btn {font-size: 15px; height: 35px; line-height: 32px; width: 120px; }
+	.hotel-room-dtl-row .custom-btn {width: 135px;}  
+	/*hotel-det-css*/ 
+
+	/*popup css*/
+    .registration-form .form-control {border-radius: 30px; padding: 0 20px; height: 50px;line-height: 50px;}
+    .registration-form .form-group {margin-bottom: 20px;}  
+    .registration-form .custom-btn {	height: 50px; line-height: 50px; border-radius: 30px; font-size: 18px; background: #093d66;} 
+    .login-form .password-row .form-control {margin-bottom: 10px;}
+    .login-form .registration-text {margin-top: 10px;}
+    .form-socila-media .form-socila-media-hdr {font-size: 21px; margin-bottom: 15px;}    
+    .form-socila-media-box li a img {max-width: 17px; max-height: 18px;}
+    .form-socila-media-box li {margin-right: 15px;}
+    .form-or-text-row .text {font-size: 16px; width: 45px; height: 45px; line-height: 40px; margin: 20px auto; border: 2px solid #cfcece;}
+   /*popup css*/
+ 
+   /*flight dtl panel*/
+   .flight-fare-box .fare-heading-row .fare-heading-col { font-size: 13px;}
+   .flight-fare-box .fare-pay-row {font-size: 18px; padding: 10px 0;}
+   .flight-schedule-row .flight-schedule-dtl .time-text {font-size: 16px;line-height: 18px;	margin: 6px 0;}
+
+   /*profile page css*/
+   .my-account-contain-hdr {font-size: 25px; line-height: 30px; margin-bottom: 10px;} 
+   .my-account-contain {padding: 20px 20px 25px;}	
+   .my-account-form-top-text p {font-size: 15px; line-height: 20px;}
+   .my-account-form-box .my-account-btn { font-size: 16px;letter-spacing: 1px; width: 170px;} 
+   .my-account-form-box .form-control {padding: 0 12px;}
+   .my-account-row .my-account-menu-col {flex: 0 0 32%; max-width: 32%;}
+   .my-account-row .my-account-contain-col {flex: 0 0 68%;	max-width: 68%;} 
+   .my-account-list li {padding: 15px; line-height: 20px; font-size: 18px;}
+   .my-account-menu-hdr {font-size: 18px; padding: 17px 15px; line-height: 18px;} 
+   /*profile page css*/
+
+   /*booking confirmation page css*/
+   .booking-confirmation-top-hdr .booking-confirmation-top-hdr-left p {font-size: 15px; line-height: 24px; padding-bottom: 10px;}
+   .booking-confirmation-top-hdr { margin-top: 0;}
+   .booking-confirmation-section .hotel-contain-section .hotel-contain .hotel-contain-bottom {margin: 0 -10px;}
+   .booking-confirmation-section .hotel-contain-section .hotel-contain .hotel-contain-bottom .hotel-contain-bottom-col {padding: 0 8px;}
+	.booking-confirmation-section .hotel-contain-section .hotel-inner-section .hotel-contain {padding-left: 20px;}
+	.booking-confirmation-section .flight-contain-section {padding: 20px;}
+	.connect-airpot-text {padding: 10px 15px;}
+	.book-confirm-box {margin-bottom: 12px;}
+	.booking-confirmation-hdr {font-size: 20px; line-height: 25px;}
+	.booking-confirmation-ref-box .booking-confirmation-ref-inner {padding: 10px 12px;}
+	.booking-payment-detail .booking-total-amount {margin-left: -20px; margin-right: -20px;  padding: 15px 20px;}
+    /*booking confirmation page css*/ 
+
+    /*booking detail page css*/
+    .booking-detail-contain .flight-book-detail figure {width: 55px;}
+    .booking-detail-contain .flight-book-detail figure img { width: 40px; height: 40px;}
+    .booking-detail-contain .time-list-text li {padding: 0 5px; font-size: 11px;}  
+    .booking-detail-contain .time-box {font-size: 11px; font-weight: 400;}
+    .booking-detail-contain .connect-airpot-text {font-size: 13px;}
+    .booking-detail-contain .flight-book-detail figure .name-box{font-size: 11px;}
+    .booking-detail-contain .flight-book-detail figure .name-box span {line-height: 14px;} 
+    .booking-detail-contain .palce-box{font-size: 14px;}
+    .booking-detail-contain .palce-box span {
+       line-height: 18px;
+    display: inline-block;
+   }
+   .booking-detail-contain .booking-confirmation-section .duration-col:nth-child(3) { max-width: inherit;}
+    /*booking detail page css*/
+  
+  /*destination page css*/
+    .destination-header-box h2::before, .contact-header-box h2::before  {width: 50px;}
+    .destination-header-box, .contact-header-box {margin-bottom: 30px;}
+     .destination-header-box h2, .contact-header-box h2 {line-height: 22px; padding-bottom: 15px; font-size: 22px;}
+     .custom-breadcumb { padding: 14px 0;}
+     .custom-breadcumb .breadcrumb .breadcrumb-item + .breadcrumb-item::before {margin: 0 10px;font-size: 14px;}
+     .custom-breadcumb .breadcrumb {font-size: 15px;}
+     .destination-box .description {padding: 15px 15px 20px;}
+     .destination-box .description h3 {font-size: 16px; margin: 5px 0 10px;}
+     .destination-box .description-text {margin-bottom: 15px;}
+     .destination-box .destination-btn {font-size: 14px;}
+     .destination-box {margin-bottom: 20px;}
+    /*destination page css*/
+
+    /*contact page css*/
+    .contact-detail-section .detail-box {padding: 30px 10px;}
+    .contact-detail-section .detail-box .icon-box img {max-width: 48px;}
+    .contact-detail-section .detail-box .contain-box h5 {font-size: 20px;}
+    .contact-detail-section {margin-bottom: 40px;}
+    .contact-form-section {max-width: 700px;}
+    .contact-form-section .contact-form-heading h3 {font-size: 30px; line-height: 28px; margin: 0 0 15px;}
+   .contact-form-section .contact-form-heading { margin-bottom: 25px;}
+   .contact-form-section .my-account-form-box label {margin-bottom: 10px; font-size: 16px;}
+   .contact-form-section .my-account-form-box .form-control {font-size: 16px;}
+    /*contact page css*/
+
+    /*destination page dtl css*/
+    .destination-dtl-top-slider img{width: 100%;}
+    .destination-detail-contain h3 {font-size: 20px; margin-bottom: 18px;}
+    .destination-detail-contain.overview-box p {font-size: 15px;    line-height: 24px; padding-bottom: 15px;}
+    .destination-facility-box p {margin-bottom: 10px;}
+    .destination-facility-box .detail .detail-hdr {font-size: 15px; margin: 14px 0 8px;}
+    .destination-dtl-btn {width: 240px;height: 55px; line-height: 54px;font-size: 18px;}
+    .destination-dtl-map-box .mail-section .btn-sec {width: 320px;}
+    .quote-section .destination-dtl-btn {height: 50px; width: 210px; line-height: 50px;}
+    .quote-section .quote-text p {padding-bottom: 8px;}
+    .quote-section .quote-text {margin-bottom: 20px;}
+    .quote-section {padding: 35px 15px; color: #fff; font-size: 18px; line-height: 18px;}
+    .destination-dtl-top-slider {margin-bottom: 30px;}
+    .destination-dtl-map-box .mail-section .mail-text-section ul li {font-size: 15px; margin-bottom: 12px;}
+    .destination-detail-hotels-box .description {padding: 15px;}
+	.destination-detail-hotels-box .description .star-rating { margin: 9px 0 8px;}
+	.destination-detail-hotels-box .description .hotel-aminities .hotel-aminities-dtl .icon {width: 25px;}
+	.destination-detail-hotels-box .description .hotel-aminities .hotel-aminities-dtl .icon img { max-width: 18px;}
+	.destination-detail-hotels-box .description .hotel-aminities li { margin-bottom: 10px; line-height: 15px;}
+	.destination-detail-hotels-box .description .bottom-row .price-box span {line-height: 12px; font-size: 12px;}
+	.destination-detail-hotels-box .description .bottom-row .price-box p {font-size: 18px; line-height: 16px;}
+	.destination-detail-hotels-box .description .bottom-row .custom-btn {font-size: 13px; width: 120px; height: 35px; line-height: 35px;}
+	.destination-detail-hotels-box .description p {font-size: 14px; padding-bottom: 10px; }
+	.destination-detail-hotels-box .description .hotel-aminities {font-size: 14px;}
+	.destination-detail-hotels-box .description h4 {font-size: 16px; line-height: 16px;} 
+	.destination-dtl-slider .owl-nav .owl-prev::before, .destination-dtl-slider .owl-nav .owl-next::before { font-size: 16px; width: 35px; height: 35px; line-height: 34px;}
+	/*destination page dtl css*/
+
+    /*about pages css*/
+    .about-us-contain-section h3 {font-size: 22px;  margin: 0 0 25px;}
+    .services-box .detail-hdr {font-size: 18px;  margin: 13px 0 8px;}
+    .services-box .icon-box { width: 75px;height: 75px;}
+    .services-box .icon-box img {max-width: 55px;}
+    .latest-news-box .detail {padding: 15px;}
+    .about-us-contain-section {padding: 0 0 40px;}
+    .about-us-service {padding: 40px 0 20px;}
+    .latest-news-secton {padding-top: 40px;}
+    .latest-news-box .detail-hdr {font-size: 18px; margin: 0 0 10px;}
+    .about-us-contain-section.who-we-are h3 {margin-bottom: 10px;}
+    /*about pages css*/
+    
+}
+
+
+@media screen and (min-width: 768px){ 
+	.flight-search-section .navbar-expand-lg .navbar-collapse {display: -webkit-box !important; display: -ms-flexbox !important;  display: flex !important; -ms-flex-preferred-size: auto; flex-basis: auto;}
+	.flight-search-section .navbar-expand-lg .navbar-toggler {display: none;}
+}
+ 
+
+@media screen and (max-width: 767px){
+	body{font-size: 14px;}
+	p{line-height: 22px;  font-size: 14px;}
+	.popular-place-section {padding: 30px 0;}
+	.popular-place-section .main-heading span {padding: 5px 15px; text-transform: uppercase; margin-bottom: 12px; line-height: 13px; font-size: 12px;}
+	.popular-place-row figure figcaption {font-size: 14px;}
+	.best-deal-section {padding: 30px 0;}
+	.best-deal-section .main-heading h2 {margin-bottom: 15px;}
+	.best-deal-title {font-size: 20px; line-height: 22px; margin-bottom: 5px;}
+	.best-deal-contain .contain-box figure {margin: 0 0 15px;}
+	.best-deal-contain .contain-box {padding-right: 10px;}
+	.best-deal-contain .contain-box {max-width: 60%; flex: 0 0 60%; padding-right: 10px;}
+	.best-deal-contain .img-box {max-width: 40%; flex: 0 0 40%;}
+	.best-deal-contain .contain-box .custom-btn {width: 140px;}
+	.main-heading h2 {font-size: 24px;line-height: 24px; margin-bottom: 10px}
+	.popular-travel-section .main-heading p, .last-offer-section .main-heading p {line-height: 22px;}
+	.last-offer-section .main-heading h2{margin-bottom: 10px;}
+	.popular-destination {font-size: 18px; margin-bottom: 10px;}
+	.popular-travel-slider .items figure {height: 270px;}
+	.last-offer-slider .owl-dots .owl-dot.active, 
+	.popular-travel-slider .owl-dots .owl-dot.active {width: 10px;  height: 10px;}
+	.popular-travel-slider .owl-dots {bottom: 7px;}
+	.best-deal-contain .contain-box figure img {max-width: 60px;}
+	.popular-travel-slider .popular-place-box ul li a {width: 35px; height: 35px; font-size: 14px;}
+	.popular-travel-slider .popular-place-box ul {max-width: 180px;}
+	.popular-travel-slider .popular-place-box { max-width: 250px; padding: 15px 0 30px;}
+	.popular-travel-section .main-heading h2::before {line-height: 25px; font-size: 38px;}
+	.popular-travel-section .main-heading h2 {padding: 8px 0;}
+	.popular-travel-section .main-heading {margin-bottom: 15px;}
+	.last-offer-section {padding: 30px 0;}
+	.last-offer-section .main-heading {margin-bottom: 15px;}
+	.last-offer-slider .owl-dots .owl-dot.active, .popular-travel-slider .owl-dots .owl-dot.active {width: 10px; height: 10px;}
+	.last-offer-box .last-offer-dtl .time i {margin-right: 3px; font-size: 14px;}
+	.last-offer-box .btn-box {padding-left: 0; height: 40px; line-height: 40px;}
+	.last-offer-box .btn-box .custom-btn, 
+	.last-offer-box .btn-box .custom-btn:hover{font-size: 14px;}
+	.star-rating li {margin-right: 3px; font-size: 12px;}
+	.last-offer-box {padding-top: 20px;}
+	.hot-month-slider, .hot-month-contain {flex: 0 0 100%; max-width: 100%;}
+	.hot-month-contain {padding: 15px; margin-bottom: 15px;}
+	.hot-month-contain p {line-height: 22px; padding-bottom: 15px;}
+	.hot-month-section .container { flex-wrap: wrap;}
+	.hot-month-heading {font-size: 24px; line-height: 24px; margin-bottom: 10px;}
+	.discount {margin-bottom: 12px;}
+	.discount span {width: 55px; height: 55px; font-size: 22px;}
+	.discount span sup {font-size: 15px; left: -3px; top: -5px; }
+	.discount p { font-size: 14px;}    
+	.hot-month-slider .owl-nav .owl-prev img,
+	.hot-month-slider .owl-nav .owl-next img {width: 10px;}
+	.hot-month-slider .owl-nav .owl-prev {left: 0;}
+	.hot-month-slider .owl-nav .owl-next {right: 0;}
+	.hot-month-section {padding: 30px 0;}
+	.famous-destination-section {padding: 30px 0;}
+	.famous-destination-section .main-heading h2 br {display: none;}
+	.famous-destination-section .main-heading h2 {font-size: 26px;}
+	.famous-destination-section .main-heading .img-box img {max-width: 250px;}
+	.flight-deal-section {padding: 30px 0;}
+	.flight-deal-section .main-heading h2 sub {font-size: 18px;}
+	.flight-deal-section .main-heading h2 {font-size: 24px;}
+	.count-row li span {line-height: 14px;font-size: 12px;}
+	.count-row li strong {font-size: 20px; line-height: 14px; margin-bottom: 10px;}
+	.count-row {margin: 20px auto;}
+	.destination-links li {line-height: 13px; font-size: 14px;}
+	.book-ticket-contain .contain-box {padding: 20px 80px 20px 20px;}
+	.country-name {line-height: 20px; margin-bottom: 10px;font-size: 18px;}
+	.plan-list li {font-size: 13px; line-height: 16px; margin-bottom: 8px;}
+	.plan-list { margin-bottom: 12px;}
+	.price {font-size: 20px; line-height: 20px;}
+	.book-ticket-contain figure {width: 50%;}
+	.news-letter-section .main-heading p {font-size: 15px; padding-bottom: 10px; letter-spacing: 4px;}
+	.video-box {top: 16px;}
+	.map-section { padding-top: 152px;}
+	.news-letter-section .main-heading h2 {margin-bottom: 10px;}
+	.news-letter-section {padding: 30px 0 0;}
+	.form-control {letter-spacing: 1px; font-size: 14px; height: 45px; line-height: 45px;}
+	.home-banner-tab .nav-tabs {max-width: 480px; border-radius: 5px;}
+	.home-banner-tab .nav-tabs .icon {margin-bottom: 0;}
+	.flight-book-form .form-group {padding: 8px 10px;}
+	.home-banner-contain {max-width: 550px; margin-top: 40px;}
+	.flight-book-form .form-group label {margin-bottom: 2px;}
+	.home-banner-tab .nav-tabs .nav-link .text{display: none;    }
+	.home-banner-tab .nav-tabs .nav-item {padding: 0 15px;}
+	.flight-book-form .row div[class*="col-"] {width: 50%;}
+	.home-banner-contain h1 {font-size: 28px; line-height: 28px;}
+	.logo {max-width: 130px;}
+	.top-info{margin-right: 0}
+	.top-info li span{display: none;}
+	.header .top-bar {padding: 10px 0;}
+	.social-links li {margin-right: 15px;}
+	.top-nav .nav li {line-height: 18px;}
+	.top-nav .nav li a {font-size: 20px;}
+	.top-nav .nav {margin-top: 70px;}
+	.top-nav .closebtn {font-size: 40px; top: 10px;  line-height: 30px;  width: 22px;  height: 26px;}  
+	.flight-book-form .custom-btn {position: static; width: 100%; border-radius: 3px; font-size: 18px;}
+	.flight-book-form {padding-right: 12px; padding-bottom: 12px;}
+	.flight-book-form .form-control::placeholder {font-size: 14px;}
+	.home-banner-tab .nav-tabs .nav-link.active::before {border-top: 6px solid #1798ea; border-left: 5px solid transparent; border-right: 5px solid transparent;  margin-top: 0; }
+	.home-banner-tab .nav-tabs .nav-item .nav-link {border-bottom: 2px solid transparent;}
+	.home-banner-tab .nav-tabs .nav-link.active {border-bottom: 2px solid #19a3fb !important;}
+	/*05-08-2020*/
+	/*.inner-banner { height: 330px;} 
+	.inner-banner .inner-banner-caption p { font-size: 14px;}
+	.inner-banner .inner-banner-caption h1 {font-size: 22px;  margin-bottom: 5px; line-height: 30px;}*/
+	.flight-search-form .custom-btn {width: 130px; height: 40px; font-size: 15px; line-height: 40px;}
+	.flight-search {padding: 25px 0 25px 0;}
+	.flight-search .flight-icon {display: none;} 
+	.flight-search-form li {margin-bottom: 10px;}
+	.inner-middle-section {padding: 30px 0;}
+	/*.short-box ul li:first-child {flex: 0 0 100%; max-width: 100%; text-align: center; padding-bottom: 0px;}*/
+	.short-box ul li {padding: 8px 5px; font-size: 12px; }
+	.short-box ul{flex-wrap: wrap;} 
+	.flight-listing-box {margin-bottom: 15px;}
+	.pagination-outer {padding: 5px 0 0;} 
+	/*05-08-2020*/  
+
+	/*06-08-2020*/
+	.airlines-box figure {width: 40px;	height: 40px; margin-top: 2px;}
+	.flight-listing-box .custom-btn {font-size: 13px; width: 76px; height: 30px; line-height: 26px; margin-left: 0;} 
+	.listing-top-dtl .listing-col span {font-size: 14px; line-height: 15px;}
+	.airlines-box .airlines-text {padding-left: 5px; padding-top: 0;}
+	.listing-top-dtl .listing-col p {font-size: 10px;line-height: 12px;} 
+	.listing-bottom-dtl {font-size: 13px;}
+	.listing-col.depart-time-col::before {width: 18px;margin-left: 28px;}
+	.listing-bottom-dtl {margin: 10px 0 0;}
+	.listing-top-dtl .listing-col span.duration-text,    
+	.listing-top-dtl .listing-col span.name-text{font-size: 12px;} 
+	.listing-bottom-dtl, .e-case-box {font-size: 11px;} 
+	.no-more-text img {vertical-align: bottom;} 
+	.custom-pagination li a {height: 25px; padding: 4px 5px; min-width: 25px; font-size: 12px;}
+	.flight-search-section .navbar-toggler-icon {width: auto; height: auto;}
+	.flight-search-section .navbar-toggler { padding: 0; font-size: 16px; line-height: 1; background-color: transparent; border: 1px solid transparent;  border-radius: 0; color: #fff; margin: 15px auto; outline: none;}
+	.short-box ul {padding:5px;} 
+	.filter-section .price-box,
+	.filter-section .depart-time,
+	.filter-section .airlines,
+	.filter-section .aircraft{display: none;}
+	.filter-search li {	flex:0 0 33%; max-width: 33%;} 
+	.filter-search li:first-child {text-align: inherit; flex: auto;	max-width: initial; margin-bottom: 0;}
+	.stops{justify-content: center;}
+	.stops span{flex: inherit;}
+	.flight-advertise-box figure {margin-bottom: 15px;}
+	.filter-dropdown-section {padding: 0 0 15px;} 
+	.filter-box {margin-bottom: 15px;} 
+	.filter-box .filter-header {font-size: 15px; margin-bottom: 10px;}
+	.heading-row .custom-btn {padding: 0 10px; height: 35px; width: 120px; font-size: 13px; line-height: 36px;}
+	.filter-dropdown-section .heading-row {font-size: 13px;}
+
+	/*flight-dtl-css*/
+	.padd-30 {padding: 15px;}
+	.flight-payment-section .payment-box .price-row .pay-price::before{left: -16px; right: -16px; }
+	.flight-book-section {margin-bottom: 20px;}
+	.flight-payment-section .payment-box .price-row .pay-price {font-size: 18px !important; line-height: 18px; padding: 12px 0; }
+	.flight-payment-section .flight-payment-contain li:first-child .flight-payment-heading {margin-bottom: 15px;}
+	.flight-payment-section .flight-payment-heading {font-size: 18px; line-height: 18px;}
+	.flight-payment-section .promo-code-dtl .form-box span {font-size: 15px;line-height: 16px;margin-bottom: 10px;}
+	.duration-col:nth-child(3) {order: 3; max-width: 100%; flex: 0 0 100%; margin-top: 20px;}
+	.duration-col-outer {flex-wrap: wrap;}
+	.flight-book-detail .duration-box {padding-left: 15px;}
+	.time-box, .palce-box, .terminal-name{font-size: 13px;}
+	.time-list-text li {padding: 0 8px;	font-size: 13px;}
+	.meal-fear-box {padding: 6px 10px; line-height: 16px;}
+	.flight-mode-text {left: -36px;}
+	.flight-book-row .flight-book-col {padding-bottom: 20px;margin-bottom: 20px;}
+	.form-contain-box .checkbox-area input[type="checkbox"] + label img {margin-left: 5px; width: 18px;}
+	.flight-book-detail figure img {margin-bottom: 5px;}
+	.flight-book-heading h4 {font-size: 18px; padding-left: 25px;}
+	.flight-payment-section .promo-code-dtl .view-link {font-size: 14px;}
+	.form-contain-box h6 {font-size: 15px;}
+	.form-contain-box h5 {margin-bottom: 10px;	font-size: 16px;}
+	.flight-book-heading h4 img {max-width: 20px; top: 2px;}
+	.flight-contain-section .form-contain-box {margin-bottom: 15px;}
+	/*.contant-dtl-box .form-control {padding-left: 48px;}*/
+	.sign-in-box .view-link {font-size: 14px;} 
+	.sign-in-box {margin-top: 10px;}
+	.optional .icon {width: 40px;}
+	.optional .icon img{max-width: 30px;}
+	.optional .details-box h6 span {font-size: 13px;}
+	.form-contain-box .form-group {margin-bottom: 8px;}
+	.form-contain-box .text-contain {font-size: 14px;}
+	.form-contain-box h6 { margin-bottom: 15px;}
+	.form-contain-box .text-contain{font-size: 14px; line-height: 22px;}
+	.traveller-information-box p { font-size: 14px; line-height: 22px;}
+	.optional .details-box p {font-size: 14px; line-height: 22px;}
+	.optional .details-box h6 {margin-bottom: 8px;}
+	.flight-payment-section .payment-box .price-row li {font-size: 15px;}
+	.flight-payment-section .payment-box .price-row .total-price::before {left: -16px; right: -16px;}
+	.promo-code-dtl li {margin-bottom: 18px;}
+	.hotel-contain-section .hotel-inner-section .hotel-contain .hotel-contain-hdr {font-size: 18px; line-height: 18px;}
+	.hotel-contain-section .hotel-inner-section .hotel-contain p {font-size: 14px;line-height: 20px;}
+	.hotel-contain-section .hotel-inner-section .hotel-img {flex: 0 0 45%; max-width: 45%;}
+	.hotel-contain-section .hotel-inner-section .hotel-img .hotel-img-text {font-size: 16px;bottom: 15px; left: 15px;}
+	.hotel-contain-section .hotel-contain .hotel-contain-bottom .hotel-contain-bottom-col:first-child {flex:0 0 100%; max-width: 100%; margin-bottom: 10px;}
+	.hotel-contain-section .hotel-contain .hotel-contain-bottom .hotel-contain-bottom-col{flex:0 0 50%; max-width: 50%;}
+	.hotel-contain-section .hotel-contain .hotel-contain-bottom .hotel-chk-outer .hotel-chk-box .title-text {font-size: 12px; line-height: 14px;}
+	.hotel-contain-section .hotel-contain .hotel-contain-bottom .hotel-chk-outer .hotel-chk-box .big-date-text {font-size: 20px; line-height: 15px; }
+	.hotel-contain-section .hotel-inner-section .hotel-img .hotel-img-text {font-size: 17px; bottom: 15px;left: 15px;}
+	.hotel-contain-section .hotel-inner-section .hotel-contain {flex: 0 0 55%;	max-width: 55%; padding-left: 15px}
+	.hotel-contain-section .hotel-contain .star-rating li {font-size: 11px;}
+	.hotel-contain-section .hotel-inner-section .hotel-img .save-text {font-size: 13px;	line-height: 14px;}
+	.hotel-contain-section .hotel-contain .hotel-contain-bottom .hotel-chk-outer li{flex: 0 0 50%;}
+	.hotel-contain-section .hotel-contain .hotel-contain-bottom .hotel-chk-outer .hotel-chk-box {width: 100%;}
+	.hotel-contain-section .hotel-inner-section .hotel-img img {height: 245px;} 
+    
+    /*flight-result page css*/ 
+	.flight-listing-box-return .flight-listing-right::before {bottom: -10px;} 
+	.flight-listing-box-return .flight-listing-left .listing-col.depart-time-col::before { background-size: 20px; margin-left: 16px;} 
+	.flight-listing-box-return .flight-listing-left .listing-top-dtl.return .listing-col.depart-time-col::before {margin-left: 6px; }
+    /*flight-result page css*/
+
+	/*flight-dtl-css*/  
+
+	/*hotel-det-css*/
+	.hotel-detail-heading::before {width: 50px;}
+	.hotel-detail-heading {font-size: 17px; }
+	.hotel-detail-contain p {line-height: 22px; font-size: 14px;}
+	.hotel-room-btl-row .hotel-room-btl-items {padding: 10px 5px;}
+	.hotel-room-btl-row .hotel-facilities li {line-height: inherit; margin-bottom: 8px;}
+	.hotel-room-btl-row .hotel-facilities li .icon img {max-width: 25px;}
+	.hotel-room-btl-row .hotel-room-btl-items {font-size: 13px;}
+	.hotel-room-btl-row .price {font-size: 20px;}
+	.hotel-room-btl-row th {padding: 8px 5px;}
+	.hotel-detail-contain {margin-bottom: 25px;}
+	.hotel-dtl-top-hdr p {font-size: 14px; line-height: 14px;}
+	.hotel-dtl-hdr {font-size: 20px;margin-bottom: 3px; line-height: 22px;}
+	.hotel-dtl-top-row .hotel-book-price .box-price-box .hotel-dtl-hdr {font-size: 20px; margin-bottom: 3px;}
+	.hotel-dtl-top-row .hotel-book-price .box-price-box p {line-height: 14px; font-size: 13px;}
+	.hotel-dtl-top-row .hotel-book-price .custom-btn {width: 110px; height: 40px; line-height: 40px; font-size: 14px;}
+	.hotel-dtl-top-row .hotel-book-price .box-price-box {margin-right: 15px;}
+	.hotel-dtl-slider-outer .dtl-slider-contain {padding: 5px 15px;}
+	.dtl-slider-contain .dtl-slider-list .slider-list-items {padding: 15px 0;}
+	.dtl-slider-contain .dtl-slider-list .slider-list-items .desc-text p {font-size: 14px; line-height: 22px;}
+	.dtl-slider-contain .hotel-dtl-rating-box .very-gd-text {font-size: 20px; line-height: 16px;}
+	.dtl-slider-contain .hotel-dtl-rating-contain .dtl-rating-outer .rating-text {font-size: 18px;} 
+	.hotel-dtl-slider-outer .dtl-slider-contain .hotel-dtl-top-hdr {margin-bottom: 15px;}
+	.hotel-dtl-slider .flexslider .off-price {width: 45px; height: 45px; line-height: 12px; font-size: 11px;}
+	.flexslider-main, .flexslider-main .slides img{height: 300px !important;} 
+	.flex-direction-nav a.flex-next::before, .flex-direction-nav a.flex-prev::before {width: 35px; height: 40px; background-size: 10px;}
+	.flex-direction-nav a {width: 35px; height: 40px;}
+	.hotel-dtl-slider .thumb-nav .flex-direction-nav a.flex-next::before, 
+	.hotel-dtl-slider .thumb-nav .flex-direction-nav a.flex-prev::before {background-size: 10px; width: 25px; height: 35px;}
+	.hotel-dtl-slider .thumb-nav .flex-direction-nav a {width: 25px; height: 35px;}
+	.hotel-dtl-slider .flexslider .thumb-img {padding: 0 2px; width: 90px !important;}
+	.hotel-dtl-slider .flexslider .thumb-img img {height: 70px !important;}
+	.table.hotel-room-tbl .hotel-facilities li {padding-left: 25px;}
+	.table.hotel-room-tbl .hotel-facilities li .icon img {max-width: 20px;}
+	.hotel-dtl-top-row .hotel-dtl-top-hdr .hotel-dtl-hdr span {margin-right: 10px;}
+	.hotel-room-btl-row .custom-btn {font-size: 14px; width: 120px; height: 35px; line-height: 35px;}
+	.hotel-room-dtl-row .hotel-room-dtl-price {width: 100%;}
+	.hotel-room-dtl-row .hotel-room-dtl-price .price-text {display: none;}
+	.hotel-room-dtl-row {padding:15px;} 
+	.hotel-room-dtl-row .hotel-room-dtl-middle{flex:0 0 100%; max-width: 100%; padding: 15px 0; }
+	.hotel-room-dtl-row .hotel-room-dtl-price {padding-top: 15px;  width: 100%; flex-direction: row; align-items: center; justify-content: space-between;background: #fff; border-top: 1px solid rgba(194,194,194,0.15)}
+	.hotel-room-dtl-row .hotel-room-dtl-price .price{color: #000;}
+	.hotel-room-dtl-row .hotel-room-dtl-price .price {font-size: 20px; margin-bottom: 0;}
+	.hotel-room-dtl-row .custom-btn {width: 100px; line-height: 35px;}
+    .hotel-room-img.hotel-room-img-mobile-view .img-box img{width: 100%;}  
+    .facilities-contain-list.inclusion .facilities-contain-items {padding-left: 20px;} 
+    .hotel-room-img-mobile-view .facilities-contain-box {flex: 0 0 50%;} 
+    .hotel-room-dtl-row .hotel-middle-heading::after {width: 40px;}
+    .hotel-room-dtl-row .hotel-middle-heading::before {width: 100px;}
+    .hotel-room-dtl-row .hotel-middle-heading {margin: 0 0 20px;}
+
+     /*27-08-2020*/
+    .hotel-room-dtl-row .hotel-room-dtl-heading {font-size: 17px;  margin-bottom: 15px;  line-height: 22px; margin-top: 0; letter-spacing: 0;} 
+    .hotel-room-dtl-row .hotel-room-img {flex: 0 0 100%; max-width: 100%; margin-bottom: 15px;}
+    .hotel-room-dtl-row .hotel-room-img .img-box{width: 100%;}
+    .hotel-room-dtl-row .hotel-room-dtl {padding: 0;}
+    .hotel-room-dtl-row .hotel-middle-facilities {margin: 0 0 20px;} 
+    .room-view-row .custom-btn{width: 135px;} 
+    /*27-08-2020*/
+
+	/*hotel-det-css*/
+
+	/*loader css*/
+	.full-overlay .overlay-box {padding: 15px 10px; max-width: 400px;}	
+	.loader-img {margin-bottom: 20px;}
+	.loader-img img{max-width: 45px;}  
+	.full-overlay .overlay-heading { line-height: 17px; font-size: 17px; margin-bottom: 8px;}
+    /*loader css*/ 
+
+    /*popup css*/
+	.registration-form-section {padding: 50px 15px 30px;} 
+	.registration-form-section .user-icon {	width: 60px; height: 60px; top: -30px;}
+    .registration-hdr-box .registration-hdr {font-size: 22px; line-height: 22px; margin-bottom: 10px;}
+    .registration-hdr-box p {font-size: 14px; line-height: 22px;}
+    .registration-form .form-control {border-radius: 25px; padding: 0 15px; height: 45px; line-height: 45px; font-size: 15px;}
+    .login-form .password-row .form-control {margin-bottom: 7px;}
+    .forget-pass-text {line-height: 16px;font-size: 14px;}
+    .registration-form .custom-btn {	height: 45px; line-height: 45px; border-radius: 25px; font-size: 16px; background: #093d66;}
+    .login-form .registration-text {font-size: 14px; line-height: 16px; }
+    .form-socila-media .form-socila-media-hdr {font-size: 16px; margin-bottom: 10px;}
+	.form-or-text-row .text {font-size: 14px; width: 40px; height: 40px; line-height: 36px; margin: 12px auto;}
+	.form-socila-media-box li {margin-right: 10px;}
+	.form-socila-media-box li a {width: 35px; height: 35px;}
+	.form-socila-media-box li a img {max-width: 15px; max-height: 14px;}
+	.registration-form .form-group {margin-bottom: 15px;} 
+	.registration-form .btn-outer {  padding-top: 10px;} 
+	.registration-form-section .user-icon img {max-width: 25px;}
+
+    /*flight-dtl-panel*/  
+	.flight-dtl-panel-box .flight-dtl-left-col {flex: 0 0 100%; max-width: 100%; padding-right: 0; margin-bottom: 15px;}  
+	.flight-dtl-panel-box .flight-dtl-right-col {flex: 0 0 100%; max-width: 100%;}  
+	.flight-schedule-row .flight-schedule-dtl .time-text {font-size: 14px; line-height: 16px;	margin: 5px 0;}
+	.flight-schedule-row {margin: 0 0 10px; padding-bottom: 10px;}
+	.flight-schedule-row .flight-schedule-dtl .place {font-size: 13px; line-height: 16px;}
+	.flight-fare-box .fare-pay-row {padding: 8px 0;} 
+	.flight-dtl-tab-section .nav-tabs .nav-link.active::before {bottom: -6px;}
+	.flight-dtl-panel-box .flight-dtl-right-col::before {display: none;}
+	.flight-dtl-panel-box .flight-dtl-right-col{padding-right:15px; padding-bottom: 15px;}
+	.flight-fare-box .fare-heading-row .fare-heading-col:nth-child {padding: 0 8px;}
+	.flight-schedule-row .flight-duratoin-dtl .flight-icon-box .flight-bdr {width: 40px;}
+	.flight-schedule-row .flight-schedule-dtl .date-text {font-size: 14px;}
+	.flight-schedule-row .flight-duratoin-dtl .flight-icon-box {margin: 2px 0;}
+	.flight-schedule-row .flight-duratoin-dtl .duration-text {font-size: 13px; line-height: 13px;}
+	.flight-schedule-header {font-size: 14px; padding: 6px 15px; margin-bottom: 20px;} 
+	/*flight-dtl-panel*/
+
+	/*profile page css*/  
+	.my-account-row .my-account-contain-col,  
+	.my-account-row .my-account-menu-col {flex: 0 0 100%; max-width: 100%;}
+	.my-account-form-box .form-group {margin-bottom: 15px;}
+	.my-account-form-box label {font-size: 15px;}
+	.my-account-form-box .form-control {height: 40px; line-height: 40px; padding: 0 10px;}
+	.my-account-form-top-text p {font-size: 14px; } 
+	.my-account-form-top-text {margin-bottom: 10px;}
+	.my-account-contain-hdr {font-size: 20px; margin-bottom: 8px;}
+	.my-account-contain {padding: 15px;}
+	.my-account-form-box .my-account-btn {font-size: 15px; width: 145px; height: 40px; line-height: 40px;}
+    .my-account-form-box .checkbox-area input[type="checkbox"] + label {font-size: 15px;}
+    .my-account-menu-hdr {font-size: 16px;  padding: 12px 15px;}
+    .my-account-list li {padding: 10px 15px; line-height: 18px; font-size: 14px;}
+    .my-account-row .my-account-menu-col{margin-bottom: 20px;}
+  
+    /*developer page css*/  
+     textarea.form-control {min-height: 85px;}
+    /*developer page css*/
+
+    /*booking confirmation page css*/
+    .booking-confirmation-section .flight-contain-section {padding: 15px;}
+    .booking-confirmation-top-hdr .booking-confirmation-top-hdr-left h2 {font-size: 20px;line-height: 22px; margin-bottom: 8px; }
+    .booking-confirmation-top-hdr .booking-confirmation-top-hdr-left p {font-size: 14px; line-height: 22px; padding-bottom: 5px;}
+    .booking-confirmation-section .hotel-contain-section .hotel-inner-section .hotel-contain {flex: 0 0 65%;  max-width: 65%;}
+    .booking-confirmation-section .hotel-contain-section .hotel-inner-section .hotel-img {flex: 0 0 35%; max-width: 35%;}
+    .booking-confirmation-hdr {font-size: 18px; line-height: 18px;}
+    .connect-airpot-text {padding: 8px 15px; font-size: 14px;}
+    .book-confirm-box p { font-size: 14px; padding-bottom: 5px;line-height: 16px;}
+    .book-confirm-box {margin-bottom: 8px;}
+    .book-confirm-box label {font-size: 14px; margin-bottom: 8px;line-height: 14px;}
+    .booking-payment-detail .booking-total-amount {	margin-left: -15px; margin-right: -15px; padding:6px 15px;}
+    .inc-taxes-box {font-size: 11px;}
+    .booking-payment-detail .booking-total-amount, .booking-payment-detail .booking-total-amount p{font-size: 14px;}
+    .booking-payment-detail .book-confirm-box{margin-bottom: 10px;}
+    .booking-payment-detail .book-confirm-box.book-hotel-col{margin-bottom: 2px;}
+    .booking-confirmation-section .flight-contain-section{margin-bottom: 20px;}
+    .booking-confirmation-ref-box .booking-confirmation-ref-inner .booking-confirmation-ref-text-hdr{font-size: 15px; line-height: 16px;}
+    .booking-confirmation-section .hotel-contain-section .hotel-inner-section .hotel-contain p {padding: 2px 0 4px;}
+    .booking-confirmation-section .hotel-contain-section .hotel-contain .star-rating li { font-size: 11px;}
+    .booking-confirmation-section .hotel-contain-section .hotel-inner-section .hotel-contain .star-rating {margin-bottom: 8px;}
+    .booking-confirmation-section .flight-book-detail {align-items: flex-start;}
+    .booking-confirmation-section .time-box{font-weight: 400; margin: 8px 0;}
+    .booking-confirmation-section .duration-col:nth-child(3) {margin-top: 15px;} 
+    .booking-confirmation-section .flight-book-row .flight-book-col {padding-bottom: 30px;}   
+     /*booking confirmation page css*/
+
+      /*destination page css*/
+    .destination-header-box h2, .contact-header-box h2 {line-height: 18px; padding-bottom: 10px;   font-size: 18px; margin-bottom: 5px;}
+    .destination-header-box h2::before, .contact-header-box h2::before {width: 35px; height: 2px;}
+    .destination-header-box p, .contact-header-box p {font-size: 14px; line-height: 22px;} 
+    .destination-header-box, .contact-header-box { margin-bottom: 20px;}
+    .custom-breadcumb {padding: 10px 0;}
+    .custom-breadcumb .breadcrumb {font-size: 14px;}
+    .custom-breadcumb .breadcrumb .breadcrumb-item + .breadcrumb-item::before {margin: 0 8px;}
+    .destination-box .description {padding: 15px;}
+    .destination-box .description h3 {font-size: 15px; margin: 0 0 5px;}
+    .destination-box p {font-size: 14px; line-height: 22px;}
+    .destination-box .destination-btn img {margin-left: 5px; width: 12px;}
+    .destination-box .destination-btn { font-size: 13px;}
+    .destination-box:hover .destination-btn img {margin-left: 10px;}
+    .destination-box {border-bottom: 3px solid #ffc001;}
+    /*destination page css*/
+
+
+    /*FAQ PAGE CSS*/ 
+    .inner-banner {height: 200px;}
+   .inner-banner-caption h2 {font-size: 30px}  
+    .faq-header {font-size: 25px; line-height: 20px; margin-bottom: 20px;}
+    .faq-contain .card-header .btn-link {font-size: 14px;}
+   /*FAQ PAGE CSS*/
+
+
+   /*contact page css*/
+.contact-detail-section .detail-box .icon-box img {max-width: 35px;}
+.contact-detail-section .contain-box p { font-size: 14px; line-height: 22px;}
+.contact-detail-section .detail-box .contain-box h5 {font-size: 18px; margin: 12px 0 5px; }
+.contact-form-section .contact-form-heading {margin-bottom: 15px;}
+.contact-form-section { padding: 0; margin: 0;  max-width: 100%;}
+.contact-form-section .contact-form-heading h3 {font-size: 25px; line-height: 24px; margin: 0 0 8px;}
+.contact-form-section .contact-form-heading p {font-size: 14px; padding-bottom: 5px; line-height: 22px;}
+.contact-form-section .my-account-form-box .form-group {margin-bottom: 10px;}
+.contact-form-section .my-account-form-box label {margin-bottom: 10px; font-size: 15px;}
+.contact-form-section .my-account-form-box .form-control {font-size: 15px;}
+.contact-form-section .my-account-form-box .my-account-btn {font-size: 15px; width: 130px;}
+.contact-detail-section .detail-box {padding: 20px 10px; height: auto;  margin-bottom: 15px;border-top: 3px solid #093d66;}
+.contact-detail-section {margin-bottom: 15px;}
+.contact-map-section {margin-bottom: 30px;}
+   /*contact page css*/
+   
+/*destination page dtl css*/
+.destination-detail-contain h3 {font-size: 18px;  margin-bottom: 15px;}
+.destination-detail-contain.overview-box p {font-size: 14px; line-height: 22px; padding-bottom: 10px;}
+.destination-dtl-map-box .mail-section .mail-text-section ul li {font-size: 14px; margin-bottom: 8px;}
+.destination-dtl-map-box .mail-section .btn-sec .img-box { height: 225px; margin-bottom: 20px; text-align: center;}
+.destination-dtl-map-box .mail-section .btn-sec .img-box img{max-height: 225px;}
+.destination-dtl-btn { width: 210px; height: 45px; line-height: 45px; font-size: 16px;}
+.destination-dtl-map-box .mail-section .btn-sec {width: 100%;}
+.destination-dtl-map-box .mail-section .mail-text-section { flex: 0 0 100%; max-width: 100%; padding-left: 0;}
+.destination-detail-contain {margin-bottom: 25px;}
+.quote-section .destination-dtl-btn { height: 45px; width: 190px;  line-height: 45px;}
+.destination-box.destination-facility-box .icon-box img {max-width: 35px;}
+/*destination page dtl css*/
+
+/*about page css*/
+.about-us-contain-section {padding: 0 0 30px;}
+    .about-us-service {padding: 30px 0 20px;}
+    .latest-news-secton {padding-top: 30px;}
+    .latest-news-box {margin-bottom: 15px;}
+   .about-us-contain-section h3 { font-size: 18px; margin: 0 0 15px;}
+    .about-us-contain-section p {font-size: 14px; line-height: 22px;}
+    .services-box {padding: 15px;}
+    .services-box .icon-box {width: 55px; height: 55px;} 
+   .services-box .icon-box img {max-width: 45px;}
+   .services-box .detail-hdr {font-size: 16px; margin: 10px 0 4px;}
+   .tour-info-row {margin: 0 0 5px;}
+     .latest-news-box .detail-hdr {font-size: 16px;}
+/*about page css*/
+
+/*enquery page css*/
+.enquery-form-sectiom {padding: 0;}
+.enquery-calender-icon::before {top: 6px;}
+.enquery-form-hdr {font-size: 16px; margin-bottom: 10px;}
+.enquery-form-sectiom .my-account-form-box .form-control,
+.enquery-form-sectiom .my-account-form-box label {font-size: 14px;}
+.enquery-form-sectiom .my-account-form-box .my-account-btn {font-size: 15px; width: 145px;}
+.enquery-form-sectiom .my-account-form-box label {line-height: 22px;}
+.enquery-form-sectiom .my-account-form-box .checkbox-area input[type="checkbox"] + label {font-size: 14px;}
+/*enquery page css*/
+
+}
+
+
+@media screen and (max-width: 575px){
+	.footer .social-links{margin-bottom: 15px;}
+	.best-deal-contain {flex-direction: inherit;}
+	.best-deal-contain .img-box{margin-bottom: 15px;}
+	.best-deal-contain .contain-box, .best-deal-contain .img-box{max-width: 100%;  flex: 0 0 100%; padding-right: 0;}
+	.popular-travel-section .main-heading h2::before {line-height: 36px;  font-size: 30px;}
+	.hot-month-section {padding: 30px 0;}
+	.hot-month-slider .items img {height: 250px;}
+	.book-ticket-contain {flex-wrap: wrap;}
+	.book-ticket-contain .contain-box {flex: 0 0 100%; max-width: 100%; padding: 15px;}
+	.book-ticket-contain figure {flex: 0 0 100%; max-width: 100%;}
+	.book-ticket-contain .contain-box .custom-btn {position: static; width: 140px; transform: none; top: 0; right: auto;}
+	.price { display: block; margin-bottom: 10px;}
+	.book-ticket-slider .owl-nav .owl-prev {left: 10px;}
+	.book-ticket-slider .owl-nav .owl-next {right: 10px;}
+	.testimonial-section {padding: 30px 0;}
+	.testimonial-section .testimonial-contain .testimonial-left {flex: 0 0 100%; max-width: 100%; border-right: 0; padding-bottom: 15px;}
+	.quot-box .img-box {width: 55px; height: 55px; }
+	.quot-box .img-box img { max-width: 22px;}
+	.testimonial-section .testimonial-contain .testimonial-left .title-text {font-size: 24px; line-height: 32px; padding-left: 15px;}
+	.testimonial-section .testimonial-contain .testimonial-left .title-text br {display: none;}
+	.testimonial-section .testimonial-contain .testimonial-slider {flex: 0 0 100%; max-width: 100%; padding: 0 0 20px;}
+	.testimonial-slider .owl-dots {left: 0;}
+	.testimonial-slider .owl-dots .owl-dot {width: 10px !important; height: 10px !important; margin-right: 5px !important;}
+	/*05-08-2020*/
+	.short-box ul li {font-size: 12px; padding: 5px 8px;}
+	.airlines-box {flex-wrap: wrap;}
+	.airlines-box .airlines-text {padding-left: 0;flex: 0 0 100%;max-width: 100%;}
+	.short-box ul li:last-child {flex: 0 0 28%;max-width: 28%;} 
+	.short-box ul li {flex: 0 0 18%; max-width: 18%;}
+
+	/*flight-dtl-css*/
+	.adult-row li {padding: 0 10px;} 
+	.adult-row {margin: 0 -10px;}
+	.form-contain-box .form-group {margin-bottom: 15px;}     
+	.form-contain-box  .form-group.custom-icon.phone-icon{margin-bottom: 10px;} 
+	.hotel-contain-section .hotel-inner-section .hotel-img, 
+	.hotel-contain-section .hotel-inner-section .hotel-contain{flex: 0 0 100%; max-width: 100%;}
+	.hotel-contain-section .hotel-inner-section .hotel-img img {height: auto;}
+	.hotel-contain-section .hotel-inner-section .hotel-contain {padding-left: 0; padding-top: 20px;}
+	/*flight-dtl-css*/
+ 
+	/*hotel-dtl-css*/
+	.hotel-dtl-top-row .hotel-dtl-top-hdr {flex: 0 0 100%;max-width: 100%; margin-bottom: 15px}
+	.hotel-dtl-top-row .hotel-book-price {	flex: 0 0 100%;	max-width: 100%;	justify-content: space-between;	}
+	.hotel-dtl-top-row .hotel-book-price .custom-btn {height: 35px; line-height: 35px;	font-size: 13px;}
+	/*.hotel-room-btl-row .custom-btn {width: 110px;}*/ 
+	/*hotel-dtl-css*/
+
+	/*booking confirmation page css*/ 
+	 .booking-confirmation-section .hotel-contain-section .hotel-inner-section .hotel-contain {flex: 0 0 100%; max-width: 100%; padding-left: 0;}
+     .booking-confirmation-section .hotel-contain-section .hotel-inner-section .hotel-img{flex: 0 0 100%; max-width: 100%;}
+     .booking-confirmation-section .hotel-contain-section .hotel-inner-section .hotel-contain { padding-top: 15px;}
+     .booking-confirmation-section .hotel-contain-section .hotel-inner-section .hotel-img img{height: 200px;} 
+	/*booking confirmation page css*/
+
+    /*destinaton page csss*/
+    .destination-box {margin-bottom: 15px;} 
+    /*destinaton page csss*/   
+  
+   /*flight result page css*/ 
+    .flight-listing-box-return .flight-listing-left {flex: 0 0 75%; max-width: 75%; }  
+    .flight-listing-box-return .flight-listing-right {flex: 0 0 25%; max-width: 25%;}
+    .flight-listing-box-return .airlines-box{flex-wrap: wrap;}
+    .flight-listing-box-return .airlines-box .airlines-text{flex: 0 0 100%; max-width: 100%;}  
+    .dropdown-icon.flight-dropdown-icon {background: #f5f5f5 url(../images/black-drop-down.png) no-repeat scroll calc(100% - 5px) center !important; padding-left: 4px; padding-top: 6px; padding-bottom: 6px; padding-right: 25px;}
+    /*flight result page css*/
+  
+	 
+} 
+
+@media screen and (max-width: 479px){ 
+	.last-offer-box {padding-top: 10px; flex-wrap: wrap;}
+	.last-offer-box .star-rating {margin-bottom: 0;}
+	.last-offer-box figure {height: auto; width: 100%;}
+	.last-offer-dtl p {padding: 7px 0;}
+	.last-offer-box .last-offer-dtl .place-box, 
+	.last-offer-box .last-offer-dtl .last-offer-title {font-size: 16px; line-height: 14px; margin-bottom: 7px;}
+	.last-offer-box .last-offer-dtl .contain-box {padding: 15px;}
+	.last-offer-box .last-offer-dtl {width: 100%;}
+	.destination-links li {  flex: 0 0 50%; max-width: 50%;}
+	.quot-box .img-box {width: 50px; height: 50px;}
+	.testimonial-section .testimonial-contain .testimonial-left .title-text {font-size: 20px; padding-left:10px;}
+	.home-banner-tab .nav-tabs .icon img {max-width: 26px; max-height: 15px;}
+	.home-banner-tab .nav-tabs .nav-item {padding: 0 8px;}
+	.flight-book-form .row div[class*="col-"] {width: 100%;}
+	.home-banner {height: 740px;}
+	.home-banner-tab .nav-tabs .icon {width: 40px; height: 40px;}
+	.contact-info .contact-dtl small {display: none;}
+	.contact-info .contact-dtl {width: 100px;}
+	.logo {max-width: 110px;}
+	.contact-info .contact-dtl span a span {display: block;}
+	.contact-info .contact-dtl span {font-size: 12px;}
+	.nav-icon img{width: 34px; margin-top: 3px;} 
+	/*05-08-2020*/
+	.flight-search-form li {flex: 0 0 100%;  max-width: 100%;}
+	.flight-search-form .custom-btn {width: 100%;} 
+	/*06-08-2020*/
+	.airlines-box .airlines-text {padding-left: 0; margin-top: 5px;}   
+	.listing-top-dtl .listing-col {flex: 0 0 17.5%; max-width: 17.5%; padding: 0 2px;}
+	.listing-top-dtl .listing-col:last-child {flex: 0 0 30%; max-width: 30%;}
+	.listing-top-dtl {margin: 0 -5px;}
+	/*.flight-listing-box {padding: 10px;} */ 
+	.listing-col.depart-time-col::before{display: none;}
+	.short-box ul li {font-size: 11px;	padding: 5px 4px;} 
+	.short-box ul li {flex: 0 0 17.5%;	max-width: 17.5%;}
+	.short-box ul li:last-child {flex: 0 0 30%; max-width: 30%;}
+	.filter-search li:first-child {flex: 0 0 22%;max-width: 22%;}
+	.filter-search li:last-child {flex: 0 0 33%;max-width: 33%;} 
+	.filter-search li {flex: 0 0 45%; max-width: 45%; font-size: 12px;}
+	.filter-search li { padding: 5px;} 
+	.flight-advertise-box figure {margin-bottom: 10px;} 
+	.filter-dropdown-section .heading-row  {padding:12px 0} 
+	.filter-dropdown-section .heading-row .container {justify-content: center; flex-wrap: wrap;}
+	.filter-dropdown-section .heading-row .left-box,  
+	.filter-dropdown-section .heading-row .right-box{flex: 0 0 100%; max-height: 100%;text-align: center;}
+	.filter-dropdown-section .heading-row .left-box{margin-right: 0; margin-bottom: 10px;}
+	.filter-box .depart-time-box li { flex: 0 0 25% !important; max-width: 25% !important;}
+
+	/*flight-dtl-css*/
+	.adult-row {flex-wrap: wrap;} 
+	.adult-row li:first-child,  .adult-row li {flex: 0 0 100%; max-width: 100%; margin-bottom: 0;}
+	.form-section .optional .btn-box {margin-top: 10px; width: 100%; text-align: left; margin-left: 40px;}
+	.optional-heading {padding-right: 0;}
+	.optional-heading .custom-btn { position: static; height: 30px; line-height: 30px; font-size: 13px; width: 75px;}
+	.flight-book-detail figure {width: 60px;}
+	.flight-book-detail figure .vertical-bdr {display: none;}  
+	.flight-book-detail figure .name-box {font-size: 13px;}
+	.flight-book-detail .duration-box {padding-left: 5px;}
+	.flight-book-row {padding-left: 0;}
+	.flight-book-row .flight-book-col::after {right: -25px;} 
+	.flight-book-row .flight-book-col::before {left: -26px;}
+	.flight-mode-text {	padding: 2px 10px; position: static; transform: none; transform-origin: unset; border-radius: 0; line-height: inherit; height: auto; margin: 0px auto 12px; text-align: center; width: 100%;}
+	.duration-col-outer {padding-left: 5px;}
+	.time-list-text li {font-size: 12px;}
+	.flight-book-detail {flex-wrap: wrap;}
+	.flight-book-detail figure img {width: 35px; height: 35px; margin-bottom: 5px;}
+	.promo-code-dtl li {margin-bottom: 18px;}
+	.hotel-contain-section .hotel-inner-section .hotel-contain {flex: 0 0 100%; max-width: 100%; padding-left: 0;}
+	.hotel-contain-section .hotel-inner-section .hotel-img {flex: 0 0 100%; max-width: 100%;} 
+	/*flight-det-css*/ 
+
+	/*hotel-det-css*/
+	.hotel-room-btl-row .hotel-facilities {margin: 0; max-width: 100%;}
+	.hotel-room-btl-row .custom-btn {width: 100%;} 
+
+  /*27-08-2020*/
+   .hotel-room-dtl-row .hotel-middle-facilities .facilities-items {flex: 0 0 100% !important; max-width: 100% !important;  margin-bottom: 16px;} 
+   .hotel-room-dtl-row .hotel-middle-facilities {margin: 0 0 10px;}
+   /*27-08-2020*/
+
+   /*hotel-det-css*/
+
+   /*flight panel css*/
+  .flight-schedule-row .flight-duratoin-dtl .flight-icon-box {margin: 2px 0;}
+  .flight-schedule-row .flight-schedule-dtl .flight-name {margin-left: 0; display: block;}
+  .flight-schedule-row .flight-schedule-col {flex: 0 0 33.33%;} 
+  .flight-schedule-row .flight-schedule-dtl .time-text {font-size: 13px;line-height: 12px;}
+  .flight-schedule-row .flight-schedule-dtl .place {font-size: 13px; line-height: 16px;}
+  .flight-schedule-row .flight-schedule-dtl .date-text {font-size: 12px;}
+  .flight-schedule-row .flight-duratoin-dtl .duration-text {font-size: 13px;line-height: 14px;}
+  .flight-listing-box-inner {padding: 10px;}
+
+  /*booking confirmation page css*/
+  .booking-confirmation-top-hdr .booking-confirmation-top-hdr-left {padding-right: 0; flex: 0 0 100%; margin-bottom: 0; max-width: 100%; } 
+  .booking-confirmation-top-hdr .booking-confirmation-ref-box {flex: 0 0 100%; max-width: 100%; margin-bottom: 15px;  order: -1;}
+  .booking-confirmation-top-hdr {margin-bottom: 20px;}   
+  .booking-confirmation-section .flight-book-detail figure .name-box span {font-size: 11px;}
+  .booking-confirmation-section .flight-book-detail figure{width: 50px;}
+  .booking-confirmation-section .flight-book-row .flight-book-detail .duration-box { padding-left: 4px;}
+  .booking-confirmation-section .connect-airpot-text {padding: 6px 3px; font-size: 13px; max-width: 236px;}
+  .connect-airpot-text .link-icon {margin-right: 4px;}
+  .booking-confirmation-top-hdr .booking-confirmation-top-hdr-left p{padding-bottom: 0;}
+  /*booking confirmation page css*/
+  
+  /*booking detail page css*/
+     .booking-detail-contain .booking-confirmation-section .flight-book-row .flight-book-detail .duration-box {padding-left: 3px;}
+   /*booking detail page css*/
+     
+   /*registration-form-css*/  
+   .form-or-text-row::before {width: 265px;}
+
+   /*registration-form-css*/
+     /*destination page dtl css*/ 
+ 
+   /*flight return result page css*/ 
+   .flight-listing-box-return .flight-listing-left,
+   .flight-listing-box-return .flight-listing-right {flex: 0 0 100%; max-width: 100%; }
+    .flight-listing-box-return .flight-listing-right {padding: 10px 0;}
+    .flight-listing-box-return .flight-listing-right::before{display: none;}
+    .flight-listing-box-return .listing-top-dtl .listing-col:last-child{text-align: left; flex: 0 0 25%;}
+    .flight-listing-box-return .flight-listing-right .price-col {flex-direction: row; justify-content: space-between;}
+    .flight-listing-box-return .flight-listing-right .price-col span{margin-bottom: 0;}
+    .presoin-text {display: inline-block !important; margin-top: 0; margin-left: 5px; font-size: 14px !important;}
+  /*flight return result page css*/ 
+}
+@media screen and (max-width: 360px){ 
+  .short-box ul li:last-child{text-align: left;} 
+  /*flight-dtl-css*/
+  .flight-book-detail figure {width: 100%; text-align: center;}  
+  .duration-col-outer {padding-left: 0;}
+  /*flight-dtl-css*/
+
+  /*booking confirmation page css*/
+  .booking-confirmation-section .flight-book-row .flight-book-detail .duration-box {padding-left: 0;flex: 0 0 100%; max-width: 100%;}
+  .booking-confirmation-section .flight-book-detail figure {width: 100%;}
+  /*booking confirmation page css*/
+}
+
+

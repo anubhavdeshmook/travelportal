@@ -1,0 +1,104 @@
+.error{
+  color:red !important;
+}
+
+
+.hote_search_inputs {
+  background: #EDEDED !important;
+  padding: 3px !important;
+}
+.hote_checkIn_out_dates{
+  text-transform: uppercase;
+  
+}
+
+
+/*** front end hotel search */
+
+.dropdown-content-for-hotel-search {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 154px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
+
+.dropdown-content-for-hotel-search a {
+  color: black;
+  padding: 3px 13px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content-for-hotel-search a:hover {background-color: #ededed !important;}
+
+.show {display:block;}
+
+
+
+.dropdown-content-for-hotel-guests-search {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 154px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
+
+.dropdown-content-for-hotel-guests-search a {
+  color: black;
+  padding: 3px 13px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content-for-hotel-guests-search a:hover {background-color: #ededed !important;}
+.show_guest {display:block;}
+
+
+
+
+
+
+
+
+
+
+
+.show_destinations {display:block;}
+
+.add_dynamic_data {
+  margin-bottom: 0px;
+}
+/*** front end hotel search */
+
+
+.filter-section .filter-hotel a.ms-selectall.global {
+  width: 100%;
+  display: inline-block;     font-size: 13px;
+}
+
+.filter-section .filter-hotel ul li{    max-width: 100%; text-align: left; font-size: 14px;} 
+
+.filter-section .filter-hotel ul li label {
+  padding: 4px 0px 4px 20px !important;
+  font-size: 12px;
+}
+.filter-section  .filter-hotel > li {
+  max-width: 20%;
+  flex: 0 0 20%;
+  padding: 0 15px;
+}
+
+.filter-section .filter-hotel  li.apply-button {
+  display: flex;
+  align-items: center;
+  justify-content: start;
+}
+
+
+.filter-section .filter-hotel li  .form-group label, .filter-section .filter-hotel li  .from-group label { width: 100%; display: inline-block; text-align: left; 
+  font-size: 15px;}
+
+.flight-search .flight-search-form .form-control option {
+    color: #000;
+}

@@ -1,0 +1,2001 @@
+[
+    {
+        "code": 180397,
+        "name": "5 By Oyo Metropolitan",
+        "categoryCode": "5EST",
+        "categoryName": "5 STARS",
+        "destinationCode": "JAI",
+        "destinationName": "Jaipur",
+        "zoneCode": 1,
+        "zoneName": "Jaipur",
+        "latitude": "26.902577",
+        "longitude": "75.793701",
+        "rooms": [
+            {
+                "code": "TPL.CB",
+                "name": "TRIPLE CLUB",
+                "rates": [
+                    {
+                        "rateKey": "20220728|20220730|W|270|180397|TPL.CB|BAR-25_RO-NOR|RO||1~3~0||N@06~~2358a~-891197962~N~~~NOR~19079A8E8295423165900624256100AAUK0000001000000000120676",
+                        "rateClass": "NOR",
+                        "rateType": "BOOKABLE",
+                        "net": "118.06",
+                        "allotment": 52,
+                        "paymentType": "AT_WEB",
+                        "packaging": false,
+                        "boardCode": "RO",
+                        "boardName": "ROOM ONLY",
+                        "cancellationPolicies": [
+                            {
+                                "amount": "118.06",
+                                "from": "2022-07-27T23:59:00+05:30"
+                            }
+                        ],
+                        "rooms": 1,
+                        "adults": 3,
+                        "children": 0,
+                        "shiftRates": [
+                            {
+                                "rateKey": "20220729|20220731|W|270|180397|TPL.CB|BAR-25_RO-NOR|RO||1~3~0||N@06~~2358a~-235945770~N~~~NOR~19079A8E8295423165900624256100AAUK0000001000000000120676",
+                                "rateClass": "NOR",
+                                "rateType": "BOOKABLE",
+                                "net": "118.06",
+                                "allotment": 52,
+                                "checkIn": "2022-07-29",
+                                "checkOut": "2022-07-31"
+                            },
+                            {
+                                "rateKey": "20220730|20220801|W|270|180397|TPL.CB|BAR-25_RO-NOR|RO||1~3~0||N@06~~24190~-1835164472~N~~~NOR~19079A8E8295423165900624256100AAUK0000001000000000121b7b",
+                                "rateClass": "NOR",
+                                "rateType": "BOOKABLE",
+                                "net": "123.27",
+                                "allotment": 47,
+                                "checkIn": "2022-07-30",
+                                "checkOut": "2022-08-01"
+                            }
+                        ]
+                    },
+                    {
+                        "rateKey": "20220728|20220730|W|270|180397|TPL.CB|BAR-25_RO-NRF|RO||1~3~0||N@06~~2358a~354093972~N~~~NRF~19079A8E8295423165900624256100AAUK0000001000000000120676",
+                        "rateClass": "NRF",
+                        "rateType": "BOOKABLE",
+                        "net": "118.06",
+                        "allotment": 52,
+                        "paymentType": "AT_WEB",
+                        "packaging": false,
+                        "boardCode": "RO",
+                        "boardName": "ROOM ONLY",
+                        "cancellationPolicies": [
+                            {
+                                "amount": "118.06",
+                                "from": "2022-07-27T23:59:00+05:30"
+                            }
+                        ],
+                        "rooms": 1,
+                        "adults": 3,
+                        "children": 0,
+                        "promotions": [
+                            {
+                                "code": "073",
+                                "name": "Non-refundable rate. No amendments permitted",
+                                "remark": "NON REFUNDABLE RATES"
+                            }
+                        ],
+                        "shiftRates": [
+                            {
+                                "rateKey": "20220729|20220731|W|270|180397|TPL.CB|BAR-25_RO-NRF|RO||1~3~0||N@06~~2358a~1009346164~N~~~NRF~19079A8E8295423165900624256100AAUK0000001000000000120676",
+                                "rateClass": "NRF",
+                                "rateType": "BOOKABLE",
+                                "net": "118.06",
+                                "allotment": 52,
+                                "checkIn": "2022-07-29",
+                                "checkOut": "2022-07-31"
+                            },
+                            {
+                                "rateKey": "20220730|20220801|W|270|180397|TPL.CB|BAR-25_RO-NRF|RO||1~3~0||N@06~~24190~-589872538~N~~~NRF~19079A8E8295423165900624256100AAUK0000001000000000121b7b",
+                                "rateClass": "NRF",
+                                "rateType": "BOOKABLE",
+                                "net": "123.27",
+                                "allotment": 47,
+                                "checkIn": "2022-07-30",
+                                "checkOut": "2022-08-01"
+                            }
+                        ]
+                    },
+                    {
+                        "rateKey": "20220728|20220730|W|270|180397|TPL.CB|BAR-22_RO-NOR|RO||1~3~0||N@06~~2358a~1002323162~N~~~NOR~19079A8E8295423165900624256100AAUK0000001000000000124a76",
+                        "rateClass": "NOR",
+                        "rateType": "BOOKABLE",
+                        "net": "118.74",
+                        "allotment": 52,
+                        "paymentType": "AT_WEB",
+                        "packaging": false,
+                        "boardCode": "RO",
+                        "boardName": "ROOM ONLY",
+                        "cancellationPolicies": [
+                            {
+                                "amount": "118.74",
+                                "from": "2022-07-27T23:59:00+05:30"
+                            }
+                        ],
+                        "rooms": 1,
+                        "adults": 3,
+                        "children": 0,
+                        "shiftRates": [
+                            {
+                                "rateKey": "20220729|20220731|W|270|180397|TPL.CB|BAR-22_RO-NOR|RO||1~3~0||N@06~~2358a~1657575354~N~~~NOR~19079A8E8295423165900624256100AAUK0000001000000000124a76",
+                                "rateClass": "NOR",
+                                "rateType": "BOOKABLE",
+                                "net": "118.74",
+                                "allotment": 52,
+                                "checkIn": "2022-07-29",
+                                "checkOut": "2022-07-31"
+                            },
+                            {
+                                "rateKey": "20220730|20220801|W|270|180397|TPL.CB|BAR-22_RO-NOR|RO||1~3~0||N@06~~24190~58299953~N~~~NOR~19079A8E8295423165900624256100AAUK000000100000000012637b",
+                                "rateClass": "NOR",
+                                "rateType": "BOOKABLE",
+                                "net": "123.99",
+                                "allotment": 47,
+                                "checkIn": "2022-07-30",
+                                "checkOut": "2022-08-01"
+                            }
+                        ]
+                    },
+                    {
+                        "rateKey": "20220728|20220730|W|270|180397|TPL.CB|BAR-22_RO-NRF|RO||1~3~0||N@06~~2358a~-2047352200~N~~~NRF~19079A8E8295423165900624256100AAUK0000001000000000124a76",
+                        "rateClass": "NRF",
+                        "rateType": "BOOKABLE",
+                        "net": "118.74",
+                        "allotment": 52,
+                        "paymentType": "AT_WEB",
+                        "packaging": false,
+                        "boardCode": "RO",
+                        "boardName": "ROOM ONLY",
+                        "cancellationPolicies": [
+                            {
+                                "amount": "118.74",
+                                "from": "2022-07-27T23:59:00+05:30"
+                            }
+                        ],
+                        "rooms": 1,
+                        "adults": 3,
+                        "children": 0,
+                        "promotions": [
+                            {
+                                "code": "073",
+                                "name": "Non-refundable rate. No amendments permitted",
+                                "remark": "NON REFUNDABLE RATES"
+                            }
+                        ],
+                        "shiftRates": [
+                            {
+                                "rateKey": "20220729|20220731|W|270|180397|TPL.CB|BAR-22_RO-NRF|RO||1~3~0||N@06~~2358a~-1392100008~N~~~NRF~19079A8E8295423165900624256100AAUK0000001000000000124a76",
+                                "rateClass": "NRF",
+                                "rateType": "BOOKABLE",
+                                "net": "118.74",
+                                "allotment": 52,
+                                "checkIn": "2022-07-29",
+                                "checkOut": "2022-07-31"
+                            },
+                            {
+                                "rateKey": "20220730|20220801|W|270|180397|TPL.CB|BAR-22_RO-NRF|RO||1~3~0||N@06~~24190~1303591887~N~~~NRF~19079A8E8295423165900624256100AAUK000000100000000012637b",
+                                "rateClass": "NRF",
+                                "rateType": "BOOKABLE",
+                                "net": "123.99",
+                                "allotment": 47,
+                                "checkIn": "2022-07-30",
+                                "checkOut": "2022-08-01"
+                            }
+                        ]
+                    },
+                    {
+                        "rateKey": "20220728|20220730|W|270|180397|TPL.CB|BAR-18_RO-NOR|RO||1~3~0||N@06~~2358a~-1831226269~N~~~NOR~19079A8E8295423165900624256100AAUK0000001000000000123a77",
+                        "rateClass": "NOR",
+                        "rateType": "BOOKABLE",
+                        "net": "119.58",
+                        "allotment": 52,
+                        "paymentType": "AT_WEB",
+                        "packaging": false,
+                        "boardCode": "RO",
+                        "boardName": "ROOM ONLY",
+                        "cancellationPolicies": [
+                            {
+                                "amount": "119.58",
+                                "from": "2022-07-27T23:59:00+05:30"
+                            }
+                        ],
+                        "rooms": 1,
+                        "adults": 3,
+                        "children": 0,
+                        "shiftRates": [
+                            {
+                                "rateKey": "20220729|20220731|W|270|180397|TPL.CB|BAR-18_RO-NOR|RO||1~3~0||N@06~~2358a~-1175974077~N~~~NOR~19079A8E8295423165900624256100AAUK0000001000000000123a77",
+                                "rateClass": "NOR",
+                                "rateType": "BOOKABLE",
+                                "net": "119.58",
+                                "allotment": 52,
+                                "checkIn": "2022-07-29",
+                                "checkOut": "2022-07-31"
+                            },
+                            {
+                                "rateKey": "20220730|20220801|W|270|180397|TPL.CB|BAR-18_RO-NOR|RO||1~3~0||N@06~~24190~1519719740~N~~~NOR~19079A8E8295423165900624256100AAUK000000100000000012557c",
+                                "rateClass": "NOR",
+                                "rateType": "BOOKABLE",
+                                "net": "124.85",
+                                "allotment": 47,
+                                "checkIn": "2022-07-30",
+                                "checkOut": "2022-08-01"
+                            }
+                        ]
+                    },
+                    {
+                        "rateKey": "20220728|20220730|W|270|180397|TPL.CB|BAR-18_RO-NRF|RO||1~3~0||N@06~~2358a~-585934335~N~~~NRF~19079A8E8295423165900624256100AAUK0000001000000000123a77",
+                        "rateClass": "NRF",
+                        "rateType": "BOOKABLE",
+                        "net": "119.58",
+                        "allotment": 52,
+                        "paymentType": "AT_WEB",
+                        "packaging": false,
+                        "boardCode": "RO",
+                        "boardName": "ROOM ONLY",
+                        "cancellationPolicies": [
+                            {
+                                "amount": "119.58",
+                                "from": "2022-07-27T23:59:00+05:30"
+                            }
+                        ],
+                        "rooms": 1,
+                        "adults": 3,
+                        "children": 0,
+                        "promotions": [
+                            {
+                                "code": "073",
+                                "name": "Non-refundable rate. No amendments permitted",
+                                "remark": "NON REFUNDABLE RATES"
+                            }
+                        ],
+                        "shiftRates": [
+                            {
+                                "rateKey": "20220729|20220731|W|270|180397|TPL.CB|BAR-18_RO-NRF|RO||1~3~0||N@06~~2358a~69317857~N~~~NRF~19079A8E8295423165900624256100AAUK0000001000000000123a77",
+                                "rateClass": "NRF",
+                                "rateType": "BOOKABLE",
+                                "net": "119.58",
+                                "allotment": 52,
+                                "checkIn": "2022-07-29",
+                                "checkOut": "2022-07-31"
+                            },
+                            {
+                                "rateKey": "20220730|20220801|W|270|180397|TPL.CB|BAR-18_RO-NRF|RO||1~3~0||N@06~~24190~-1529955622~N~~~NRF~19079A8E8295423165900624256100AAUK000000100000000012557c",
+                                "rateClass": "NRF",
+                                "rateType": "BOOKABLE",
+                                "net": "124.85",
+                                "allotment": 47,
+                                "checkIn": "2022-07-30",
+                                "checkOut": "2022-08-01"
+                            }
+                        ]
+                    },
+                    {
+                        "rateKey": "20220728|20220730|W|270|180397|TPL.CB|BAR-12_RO-NOR|RO||1~3~0||N@06~~2447d~-1292660738~N~~~NOR~19079A8E8295423165900624256100AAUK000000100000000012447d",
+                        "rateClass": "NOR",
+                        "rateType": "BOOKABLE",
+                        "net": "125.68",
+                        "allotment": 52,
+                        "paymentType": "AT_WEB",
+                        "packaging": false,
+                        "boardCode": "RO",
+                        "boardName": "ROOM ONLY",
+                        "cancellationPolicies": [
+                            {
+                                "amount": "125.68",
+                                "from": "2022-07-27T23:59:00+05:30"
+                            }
+                        ],
+                        "rooms": 1,
+                        "adults": 3,
+                        "children": 0,
+                        "shiftRates": [
+                            {
+                                "rateKey": "20220729|20220731|W|270|180397|TPL.CB|BAR-12_RO-NOR|RO||1~3~0||N@06~~2447d~-637408546~N~~~NOR~19079A8E8295423165900624256100AAUK000000100000000012447d",
+                                "rateClass": "NOR",
+                                "rateType": "BOOKABLE",
+                                "net": "125.68",
+                                "allotment": 52,
+                                "checkIn": "2022-07-29",
+                                "checkOut": "2022-07-31"
+                            },
+                            {
+                                "rateKey": "20220730|20220801|W|270|180397|TPL.CB|BAR-12_RO-NOR|RO||1~3~0||N@06~~21683~1058353654~N~~~NOR~19079A8E8295423165900624256100AAUK0000001000000000121683",
+                                "rateClass": "NOR",
+                                "rateType": "BOOKABLE",
+                                "net": "131.22",
+                                "allotment": 47,
+                                "checkIn": "2022-07-30",
+                                "checkOut": "2022-08-01"
+                            }
+                        ]
+                    },
+                    {
+                        "rateKey": "20220728|20220730|W|270|180397|TPL.CB|BAR-12_RO-NRF|RO||1~3~0||N@06~~2447d~-47368804~N~~~NRF~19079A8E8295423165900624256100AAUK000000100000000012447d",
+                        "rateClass": "NRF",
+                        "rateType": "BOOKABLE",
+                        "net": "125.68",
+                        "allotment": 52,
+                        "paymentType": "AT_WEB",
+                        "packaging": false,
+                        "boardCode": "RO",
+                        "boardName": "ROOM ONLY",
+                        "cancellationPolicies": [
+                            {
+                                "amount": "125.68",
+                                "from": "2022-07-27T23:59:00+05:30"
+                            }
+                        ],
+                        "rooms": 1,
+                        "adults": 3,
+                        "children": 0,
+                        "promotions": [
+                            {
+                                "code": "073",
+                                "name": "Non-refundable rate. No amendments permitted",
+                                "remark": "NON REFUNDABLE RATES"
+                            }
+                        ],
+                        "shiftRates": [
+                            {
+                                "rateKey": "20220729|20220731|W|270|180397|TPL.CB|BAR-12_RO-NRF|RO||1~3~0||N@06~~2447d~607883388~N~~~NRF~19079A8E8295423165900624256100AAUK000000100000000012447d",
+                                "rateClass": "NRF",
+                                "rateType": "BOOKABLE",
+                                "net": "125.68",
+                                "allotment": 52,
+                                "checkIn": "2022-07-29",
+                                "checkOut": "2022-07-31"
+                            },
+                            {
+                                "rateKey": "20220730|20220801|W|270|180397|TPL.CB|BAR-12_RO-NRF|RO||1~3~0||N@06~~21683~-1991321708~N~~~NRF~19079A8E8295423165900624256100AAUK0000001000000000121683",
+                                "rateClass": "NRF",
+                                "rateType": "BOOKABLE",
+                                "net": "131.22",
+                                "allotment": 47,
+                                "checkIn": "2022-07-30",
+                                "checkOut": "2022-08-01"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "code": "TPL.SU",
+                "name": "TRIPLE SUPERIOR",
+                "rates": [
+                    {
+                        "rateKey": "20220728|20220730|W|270|180397|TPL.SU|BAR-25_RO-NRF|RO||1~3~0||N@06~~20bb4~704790788~N~~~NRF~19079A8E8295423165900624256100AAUK0000001000000000123299",
+                        "rateClass": "NRF",
+                        "rateType": "BOOKABLE",
+                        "net": "153.50",
+                        "allotment": 1,
+                        "paymentType": "AT_WEB",
+                        "packaging": false,
+                        "boardCode": "RO",
+                        "boardName": "ROOM ONLY",
+                        "cancellationPolicies": [
+                            {
+                                "amount": "153.50",
+                                "from": "2022-07-27T23:59:00+05:30"
+                            }
+                        ],
+                        "rooms": 1,
+                        "adults": 3,
+                        "children": 0,
+                        "promotions": [
+                            {
+                                "code": "073",
+                                "name": "Non-refundable rate. No amendments permitted",
+                                "remark": "NON REFUNDABLE RATES"
+                            }
+                        ],
+                        "shiftRates": [
+                            {
+                                "rateKey": "20220729|20220731|W|270|180397|TPL.SU|BAR-25_RO-NRF|RO||1~3~0||N@06~~20bb4~1360042980~N~~~NRF~19079A8E8295423165900624256100AAUK0000001000000000123299",
+                                "rateClass": "NRF",
+                                "rateType": "BOOKABLE",
+                                "net": "153.50",
+                                "allotment": 7,
+                                "checkIn": "2022-07-29",
+                                "checkOut": "2022-07-31"
+                            },
+                            {
+                                "rateKey": "20220730|20220801|W|270|180397|TPL.SU|BAR-25_RO-NRF|RO||1~3~0||N@06~~20bb4~-239210730~N~~~NRF~19079A8E8295423165900624256100AAUK0000001000000000123299",
+                                "rateClass": "NRF",
+                                "rateType": "BOOKABLE",
+                                "net": "153.50",
+                                "allotment": 7,
+                                "checkIn": "2022-07-30",
+                                "checkOut": "2022-08-01"
+                            }
+                        ]
+                    },
+                    {
+                        "paymentType": "AT_WEB",
+                        "boardCode": "RO",
+                        "boardName": "ROOM ONLY",
+                        "rooms": 1,
+                        "adults": 3,
+                        "children": 0,
+                        "shiftRates": [
+                            {
+                                "rateKey": "20220729|20220731|W|270|180397|TPL.SU|BAR-25_RO-NOR|RO||1~3~0||N@06~~20bb4~114751046~N~~~NOR~19079A8E8295423165900624256100AAUK0000001000000000123299",
+                                "rateClass": "NOR",
+                                "rateType": "BOOKABLE",
+                                "net": "153.50",
+                                "allotment": 4,
+                                "checkIn": "2022-07-29",
+                                "checkOut": "2022-07-31"
+                            },
+                            {
+                                "rateKey": "20220730|20220801|W|270|180397|TPL.SU|BAR-25_RO-NOR|RO||1~3~0||N@06~~20bb4~-1484502664~N~~~NOR~19079A8E8295423165900624256100AAUK0000001000000000123299",
+                                "rateClass": "NOR",
+                                "rateType": "BOOKABLE",
+                                "net": "153.50",
+                                "allotment": 5,
+                                "checkIn": "2022-07-30",
+                                "checkOut": "2022-08-01"
+                            }
+                        ]
+                    },
+                    {
+                        "rateKey": "20220728|20220730|W|270|180397|TPL.SU|BAR-22_RO-NOR|RO||1~3~0||N@06~~20bb4~1352833584~N~~~NOR~19079A8E8295423165900624256100AAUK000000100000000012269a",
+                        "rateClass": "NOR",
+                        "rateType": "BOOKABLE",
+                        "net": "154.38",
+                        "allotment": 2,
+                        "paymentType": "AT_WEB",
+                        "packaging": false,
+                        "boardCode": "RO",
+                        "boardName": "ROOM ONLY",
+                        "cancellationPolicies": [
+                            {
+                                "amount": "154.38",
+                                "from": "2022-07-27T23:59:00+05:30"
+                            }
+                        ],
+                        "rooms": 1,
+                        "adults": 3,
+                        "children": 0,
+                        "shiftRates": [
+                            {
+                                "rateKey": "20220729|20220731|W|270|180397|TPL.SU|BAR-22_RO-NOR|RO||1~3~0||N@06~~20bb4~2008085776~N~~~NOR~19079A8E8295423165900624256100AAUK000000100000000012269a",
+                                "rateClass": "NOR",
+                                "rateType": "BOOKABLE",
+                                "net": "154.38",
+                                "allotment": 7,
+                                "checkIn": "2022-07-29",
+                                "checkOut": "2022-07-31"
+                            },
+                            {
+                                "rateKey": "20220730|20220801|W|270|180397|TPL.SU|BAR-22_RO-NOR|RO||1~3~0||N@06~~20bb4~408832066~N~~~NOR~19079A8E8295423165900624256100AAUK000000100000000012269a",
+                                "rateClass": "NOR",
+                                "rateType": "BOOKABLE",
+                                "net": "154.38",
+                                "allotment": 7,
+                                "checkIn": "2022-07-30",
+                                "checkOut": "2022-08-01"
+                            }
+                        ]
+                    },
+                    {
+                        "rateKey": "20220728|20220730|W|270|180397|TPL.SU|BAR-22_RO-NRF|RO||1~3~0||N@06~~20bb4~-1696841778~N~~~NRF~19079A8E8295423165900624256100AAUK000000100000000012269a",
+                        "rateClass": "NRF",
+                        "rateType": "BOOKABLE",
+                        "net": "154.38",
+                        "allotment": 1,
+                        "paymentType": "AT_WEB",
+                        "packaging": false,
+                        "boardCode": "RO",
+                        "boardName": "ROOM ONLY",
+                        "cancellationPolicies": [
+                            {
+                                "amount": "154.38",
+                                "from": "2022-07-27T23:59:00+05:30"
+                            }
+                        ],
+                        "rooms": 1,
+                        "adults": 3,
+                        "children": 0,
+                        "promotions": [
+                            {
+                                "code": "073",
+                                "name": "Non-refundable rate. No amendments permitted",
+                                "remark": "NON REFUNDABLE RATES"
+                            }
+                        ],
+                        "shiftRates": [
+                            {
+                                "rateKey": "20220729|20220731|W|270|180397|TPL.SU|BAR-22_RO-NRF|RO||1~3~0||N@06~~20bb4~-1041589586~N~~~NRF~19079A8E8295423165900624256100AAUK000000100000000012269a",
+                                "rateClass": "NRF",
+                                "rateType": "BOOKABLE",
+                                "net": "154.38",
+                                "allotment": 6,
+                                "checkIn": "2022-07-29",
+                                "checkOut": "2022-07-31"
+                            },
+                            {
+                                "rateKey": "20220730|20220801|W|270|180397|TPL.SU|BAR-22_RO-NRF|RO||1~3~0||N@06~~20bb4~1654124000~N~~~NRF~19079A8E8295423165900624256100AAUK000000100000000012269a",
+                                "rateClass": "NRF",
+                                "rateType": "BOOKABLE",
+                                "net": "154.38",
+                                "allotment": 6,
+                                "checkIn": "2022-07-30",
+                                "checkOut": "2022-08-01"
+                            }
+                        ]
+                    },
+                    {
+                        "rateKey": "20220728|20220730|W|270|180397|TPL.SU|BAR-18_RO-NOR|RO||1~3~0||N@06~~20bb4~-1480662031~N~~~NOR~19079A8E8295423165900624256100AAUK000000100000000012309b",
+                        "rateClass": "NOR",
+                        "rateType": "BOOKABLE",
+                        "net": "155.48",
+                        "allotment": 7,
+                        "paymentType": "AT_WEB",
+                        "packaging": false,
+                        "boardCode": "RO",
+                        "boardName": "ROOM ONLY",
+                        "cancellationPolicies": [
+                            {
+                                "amount": "155.48",
+                                "from": "2022-07-27T23:59:00+05:30"
+                            }
+                        ],
+                        "rooms": 1,
+                        "adults": 3,
+                        "children": 0,
+                        "shiftRates": [
+                            {
+                                "rateKey": "20220729|20220731|W|270|180397|TPL.SU|BAR-18_RO-NOR|RO||1~3~0||N@06~~20bb4~-825409839~N~~~NOR~19079A8E8295423165900624256100AAUK000000100000000012309b",
+                                "rateClass": "NOR",
+                                "rateType": "BOOKABLE",
+                                "net": "155.48",
+                                "allotment": 7,
+                                "checkIn": "2022-07-29",
+                                "checkOut": "2022-07-31"
+                            },
+                            {
+                                "rateKey": "20220730|20220801|W|270|180397|TPL.SU|BAR-18_RO-NOR|RO||1~3~0||N@06~~20bb4~1870303747~N~~~NOR~19079A8E8295423165900624256100AAUK000000100000000012309b",
+                                "rateClass": "NOR",
+                                "rateType": "BOOKABLE",
+                                "net": "155.48",
+                                "allotment": 7,
+                                "checkIn": "2022-07-30",
+                                "checkOut": "2022-08-01"
+                            }
+                        ]
+                    },
+                    {
+                        "rateKey": "20220728|20220730|W|270|180397|TPL.SU|BAR-18_RO-NRF|RO||1~3~0||N@06~~20bb4~-235370097~N~~~NRF~19079A8E8295423165900624256100AAUK000000100000000012309b",
+                        "rateClass": "NRF",
+                        "rateType": "BOOKABLE",
+                        "net": "155.48",
+                        "allotment": 7,
+                        "paymentType": "AT_WEB",
+                        "packaging": false,
+                        "boardCode": "RO",
+                        "boardName": "ROOM ONLY",
+                        "cancellationPolicies": [
+                            {
+                                "amount": "155.48",
+                                "from": "2022-07-27T23:59:00+05:30"
+                            }
+                        ],
+                        "rooms": 1,
+                        "adults": 3,
+                        "children": 0,
+                        "promotions": [
+                            {
+                                "code": "073",
+                                "name": "Non-refundable rate. No amendments permitted",
+                                "remark": "NON REFUNDABLE RATES"
+                            }
+                        ],
+                        "shiftRates": [
+                            {
+                                "rateKey": "20220729|20220731|W|270|180397|TPL.SU|BAR-18_RO-NRF|RO||1~3~0||N@06~~20bb4~419882095~N~~~NRF~19079A8E8295423165900624256100AAUK000000100000000012309b",
+                                "rateClass": "NRF",
+                                "rateType": "BOOKABLE",
+                                "net": "155.48",
+                                "allotment": 7,
+                                "checkIn": "2022-07-29",
+                                "checkOut": "2022-07-31"
+                            },
+                            {
+                                "rateKey": "20220730|20220801|W|270|180397|TPL.SU|BAR-18_RO-NRF|RO||1~3~0||N@06~~20bb4~-1179371615~N~~~NRF~19079A8E8295423165900624256100AAUK000000100000000012309b",
+                                "rateClass": "NRF",
+                                "rateType": "BOOKABLE",
+                                "net": "155.48",
+                                "allotment": 7,
+                                "checkIn": "2022-07-30",
+                                "checkOut": "2022-08-01"
+                            }
+                        ]
+                    },
+                    {
+                        "rateKey": "20220728|20220730|W|270|180397|TPL.SU|BAR-12_RO-NOR|RO||1~3~0||N@06~~228a3~-341632975~N~~~NOR~19079A8E8295423165900624256100AAUK00000010000000001228a3",
+                        "rateClass": "NOR",
+                        "rateType": "BOOKABLE",
+                        "net": "163.40",
+                        "allotment": 7,
+                        "paymentType": "AT_WEB",
+                        "packaging": false,
+                        "boardCode": "RO",
+                        "boardName": "ROOM ONLY",
+                        "cancellationPolicies": [
+                            {
+                                "amount": "163.40",
+                                "from": "2022-07-27T23:59:00+05:30"
+                            }
+                        ],
+                        "rooms": 1,
+                        "adults": 3,
+                        "children": 0,
+                        "shiftRates": [
+                            {
+                                "rateKey": "20220729|20220731|W|270|180397|TPL.SU|BAR-12_RO-NOR|RO||1~3~0||N@06~~228a3~313619217~N~~~NOR~19079A8E8295423165900624256100AAUK00000010000000001228a3",
+                                "rateClass": "NOR",
+                                "rateType": "BOOKABLE",
+                                "net": "163.40",
+                                "allotment": 7,
+                                "checkIn": "2022-07-29",
+                                "checkOut": "2022-07-31"
+                            },
+                            {
+                                "rateKey": "20220730|20220801|W|270|180397|TPL.SU|BAR-12_RO-NOR|RO||1~3~0||N@06~~228a3~-1285634493~N~~~NOR~19079A8E8295423165900624256100AAUK00000010000000001228a3",
+                                "rateClass": "NOR",
+                                "rateType": "BOOKABLE",
+                                "net": "163.40",
+                                "allotment": 7,
+                                "checkIn": "2022-07-30",
+                                "checkOut": "2022-08-01"
+                            }
+                        ]
+                    },
+                    {
+                        "rateKey": "20220728|20220730|W|270|180397|TPL.SU|BAR-12_RO-NRF|RO||1~3~0||N@06~~228a3~903658959~N~~~NRF~19079A8E8295423165900624256100AAUK00000010000000001228a3",
+                        "rateClass": "NRF",
+                        "rateType": "BOOKABLE",
+                        "net": "163.40",
+                        "allotment": 7,
+                        "paymentType": "AT_WEB",
+                        "packaging": false,
+                        "boardCode": "RO",
+                        "boardName": "ROOM ONLY",
+                        "cancellationPolicies": [
+                            {
+                                "amount": "163.40",
+                                "from": "2022-07-27T23:59:00+05:30"
+                            }
+                        ],
+                        "rooms": 1,
+                        "adults": 3,
+                        "children": 0,
+                        "promotions": [
+                            {
+                                "code": "073",
+                                "name": "Non-refundable rate. No amendments permitted",
+                                "remark": "NON REFUNDABLE RATES"
+                            }
+                        ],
+                        "shiftRates": [
+                            {
+                                "rateKey": "20220729|20220731|W|270|180397|TPL.SU|BAR-12_RO-NRF|RO||1~3~0||N@06~~228a3~1558911151~N~~~NRF~19079A8E8295423165900624256100AAUK00000010000000001228a3",
+                                "rateClass": "NRF",
+                                "rateType": "BOOKABLE",
+                                "net": "163.40",
+                                "allotment": 7,
+                                "checkIn": "2022-07-29",
+                                "checkOut": "2022-07-31"
+                            },
+                            {
+                                "rateKey": "20220730|20220801|W|270|180397|TPL.SU|BAR-12_RO-NRF|RO||1~3~0||N@06~~228a3~-40342559~N~~~NRF~19079A8E8295423165900624256100AAUK00000010000000001228a3",
+                                "rateClass": "NRF",
+                                "rateType": "BOOKABLE",
+                                "net": "163.40",
+                                "allotment": 7,
+                                "checkIn": "2022-07-30",
+                                "checkOut": "2022-08-01"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "minRate": "118.06",
+        "maxRate": "163.40",
+        "currency": "EUR",
+        "hotel_image": "http:\/\/photos.hotelbeds.com\/giata\/18\/180397\/180397a_hb_l_016.jpg",
+        "star_counter": 5,
+        "hotel_detail": {
+            "code": 180397,
+            "name": {
+                "content": "5 By Oyo Metropolitan"
+            },
+            "description": {
+                "content": "Located opposite Jaipur's Nehru Sahkar Bhawan, 5 BY OYO Metropolitan features a rooftop swimming pool and spa. It also offers its guests free parking privileges and a fitness center.\n\nRooms at this hotel are fitted with a flat-screen TV providing cable channels. A minibar and tea and coffee-making facilities are provided. Each room has a safety deposit box.\n\nGuests can enjoy getting a tan at the sun deck or relax at the sauna. A tour desk is available for guests to make sightseeing arrangements. Car rental and 24-hour currency exchange services are also available.\n\n5 Alley offers 24-hour dining of authentic Rajasthani dishes and continental cuisine. Drinks and snacks are served at Salud.\n\n5 BY OYO Metropolitan is 800 meters from Jaipur City Center. Jaipur Railway Station and Dolls Museum are 3 km from the hotel."
+            },
+            "country": {
+                "code": "IN",
+                "isoCode": "IN",
+                "description": {
+                    "content": "India"
+                }
+            },
+            "state": {
+                "code": "07",
+                "name": "INDIA"
+            },
+            "destination": {
+                "code": "JAI",
+                "name": {
+                    "content": "Jaipur"
+                },
+                "countryCode": "IN"
+            },
+            "zone": {
+                "zoneCode": 1,
+                "name": "Jaipur",
+                "description": {
+                    "content": "Jaipur"
+                }
+            },
+            "coordinates": {
+                "longitude": 75.793701,
+                "latitude": 26.902577
+            },
+            "category": {
+                "code": "5EST",
+                "description": {
+                    "content": "5 STARS"
+                }
+            },
+            "categoryGroup": {
+                "code": "GRUPO5",
+                "description": {
+                    "content": "Includes 5-star hotel and 5 star luxury."
+                }
+            },
+            "chain": {
+                "code": "OYOGR",
+                "description": {
+                    "content": "OYO"
+                }
+            },
+            "accommodationType": {
+                "code": "H",
+                "typeMultiDescription": {
+                    "content": "Hotel"
+                },
+                "typeDescription": "Hotel"
+            },
+            "boards": [
+                {
+                    "code": "RO",
+                    "description": {
+                        "content": "ROOM ONLY"
+                    }
+                }
+            ],
+            "segments": [
+                {
+                    "code": 34,
+                    "description": {
+                        "content": "Business hotels "
+                    }
+                },
+                {
+                    "code": 39,
+                    "description": {
+                        "content": "Hotels with spa"
+                    }
+                }
+            ],
+            "amenities": [
+                {
+                    "code": 83,
+                    "description": {
+                        "content": "Internet"
+                    }
+                },
+                {
+                    "code": 117,
+                    "description": {
+                        "content": "Safe2Stay"
+                    }
+                },
+                {
+                    "code": 85,
+                    "description": {
+                        "content": "Restaurant"
+                    }
+                },
+                {
+                    "code": 86,
+                    "description": {
+                        "content": "Spa"
+                    }
+                },
+                {
+                    "code": 88,
+                    "description": {
+                        "content": "TV"
+                    }
+                },
+                {
+                    "code": 90,
+                    "description": {
+                        "content": "Air conditioned"
+                    }
+                },
+                {
+                    "code": 108,
+                    "description": {
+                        "content": "Shower"
+                    }
+                }
+            ],
+            "address": {
+                "content": "Near Nehru Sahkar Bhawan Bais Godam Circle",
+                "street": "Near Nehru Sahkar Bhawan Bais Godam Circle"
+            },
+            "postalCode": "302001",
+            "city": {
+                "content": "JAIPUR"
+            },
+            "email": "oyohotels@oyorooms.com",
+            "phones": [
+                {
+                    "phoneNumber": "+911244588630",
+                    "phoneType": "PHONEBOOKING"
+                },
+                {
+                    "phoneNumber": "+911244588630",
+                    "phoneType": "PHONEHOTEL"
+                },
+                {
+                    "phoneNumber": "+911244588630",
+                    "phoneType": "FAXNUMBER"
+                }
+            ],
+            "rooms": [
+                {
+                    "roomCode": "TPL.CB",
+                    "isParentRoom": false,
+                    "minPax": 1,
+                    "maxPax": 3,
+                    "maxAdults": 3,
+                    "maxChildren": 2,
+                    "minAdults": 1,
+                    "description": "TRIPLE CLUB",
+                    "type": {
+                        "code": "TPL",
+                        "description": {
+                            "content": "TRIPLE"
+                        }
+                    },
+                    "characteristic": {
+                        "code": "CB",
+                        "description": {
+                            "content": "CLUB"
+                        }
+                    },
+                    "roomFacilities": [
+                        {
+                            "facilityCode": 295,
+                            "facilityGroupCode": 60,
+                            "description": {
+                                "content": "Room size (sqm)"
+                            },
+                            "number": 32,
+                            "indYesOrNo": true,
+                            "voucher": false
+                        },
+                        {
+                            "facilityCode": 10,
+                            "facilityGroupCode": 60,
+                            "description": {
+                                "content": "Bathroom"
+                            },
+                            "indLogic": true,
+                            "voucher": false
+                        }
+                    ],
+                    "roomStays": [
+                        {
+                            "stayType": "BED",
+                            "order": "1",
+                            "description": "Bed room",
+                            "roomStayFacilities": [
+                                {
+                                    "facilityCode": 155,
+                                    "facilityGroupCode": 61,
+                                    "description": {
+                                        "content": "King-size bed 150-183 width"
+                                    },
+                                    "number": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "roomCode": "SUI.CV-1",
+                    "isParentRoom": false,
+                    "minPax": 1,
+                    "maxPax": 3,
+                    "maxAdults": 3,
+                    "maxChildren": 2,
+                    "minAdults": 1,
+                    "description": "SUITE CITY VIEW",
+                    "type": {
+                        "code": "SUI",
+                        "description": {
+                            "content": "SUITE"
+                        }
+                    },
+                    "characteristic": {
+                        "code": "CV-1",
+                        "description": {
+                            "content": "CITY VIEW"
+                        }
+                    },
+                    "roomFacilities": [
+                        {
+                            "facilityCode": 295,
+                            "facilityGroupCode": 60,
+                            "description": {
+                                "content": "Room size (sqm)"
+                            },
+                            "number": 74,
+                            "indYesOrNo": true,
+                            "voucher": false
+                        },
+                        {
+                            "facilityCode": 10,
+                            "facilityGroupCode": 60,
+                            "description": {
+                                "content": "Bathroom"
+                            },
+                            "indLogic": true,
+                            "voucher": false
+                        }
+                    ],
+                    "roomStays": [
+                        {
+                            "stayType": "BED",
+                            "order": "1",
+                            "description": "Bed room",
+                            "roomStayFacilities": [
+                                {
+                                    "facilityCode": 155,
+                                    "facilityGroupCode": 61,
+                                    "description": {
+                                        "content": "King-size bed 150-183 width"
+                                    },
+                                    "number": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "roomCode": "TPL.CV-1",
+                    "isParentRoom": false,
+                    "minPax": 1,
+                    "maxPax": 3,
+                    "maxAdults": 3,
+                    "maxChildren": 2,
+                    "minAdults": 1,
+                    "description": "TRIPLE CITY VIEW",
+                    "type": {
+                        "code": "TPL",
+                        "description": {
+                            "content": "TRIPLE"
+                        }
+                    },
+                    "characteristic": {
+                        "code": "CV-1",
+                        "description": {
+                            "content": "CITY VIEW"
+                        }
+                    },
+                    "roomFacilities": [
+                        {
+                            "facilityCode": 10,
+                            "facilityGroupCode": 60,
+                            "description": {
+                                "content": "Bathroom"
+                            },
+                            "indLogic": true,
+                            "number": 1,
+                            "voucher": false
+                        },
+                        {
+                            "facilityCode": 295,
+                            "facilityGroupCode": 60,
+                            "description": {
+                                "content": "Room size (sqm)"
+                            },
+                            "number": 32,
+                            "indYesOrNo": true,
+                            "voucher": false
+                        }
+                    ],
+                    "roomStays": [
+                        {
+                            "stayType": "BED",
+                            "order": "1",
+                            "description": "Bed room",
+                            "roomStayFacilities": [
+                                {
+                                    "facilityCode": 155,
+                                    "facilityGroupCode": 61,
+                                    "description": {
+                                        "content": "King-size bed 150-183 width"
+                                    },
+                                    "number": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "roomCode": "TPL.SU",
+                    "isParentRoom": false,
+                    "minPax": 1,
+                    "maxPax": 3,
+                    "maxAdults": 3,
+                    "maxChildren": 2,
+                    "minAdults": 1,
+                    "description": "TRIPLE SUPERIOR",
+                    "type": {
+                        "code": "TPL",
+                        "description": {
+                            "content": "TRIPLE"
+                        }
+                    },
+                    "characteristic": {
+                        "code": "SU",
+                        "description": {
+                            "content": "SUPERIOR"
+                        }
+                    },
+                    "roomFacilities": [
+                        {
+                            "facilityCode": 10,
+                            "facilityGroupCode": 60,
+                            "description": {
+                                "content": "Bathroom"
+                            },
+                            "indLogic": true,
+                            "voucher": false
+                        },
+                        {
+                            "facilityCode": 295,
+                            "facilityGroupCode": 60,
+                            "description": {
+                                "content": "Room size (sqm)"
+                            },
+                            "number": 42,
+                            "indYesOrNo": true,
+                            "voucher": false
+                        }
+                    ],
+                    "roomStays": [
+                        {
+                            "stayType": "BED",
+                            "order": "1",
+                            "description": "Bed room",
+                            "roomStayFacilities": [
+                                {
+                                    "facilityCode": 155,
+                                    "facilityGroupCode": 61,
+                                    "description": {
+                                        "content": "King-size bed 150-183 width"
+                                    },
+                                    "number": 1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "facilities": [
+                {
+                    "facilityCode": 70,
+                    "facilityGroupCode": 10,
+                    "description": {
+                        "content": "Total number of rooms"
+                    },
+                    "order": 1,
+                    "indYesOrNo": true,
+                    "number": 90,
+                    "voucher": false
+                },
+                {
+                    "facilityCode": 10,
+                    "facilityGroupCode": 20,
+                    "description": {
+                        "content": "hotel"
+                    },
+                    "order": 1,
+                    "indLogic": true,
+                    "indFee": false,
+                    "voucher": false
+                },
+                {
+                    "facilityCode": 50,
+                    "facilityGroupCode": 30,
+                    "description": {
+                        "content": "MasterCard"
+                    },
+                    "order": 1,
+                    "indLogic": true,
+                    "indFee": false,
+                    "voucher": false
+                },
+                {
+                    "facilityCode": 60,
+                    "facilityGroupCode": 30,
+                    "description": {
+                        "content": "Visa"
+                    },
+                    "order": 1,
+                    "indLogic": true,
+                    "indFee": false,
+                    "voucher": false
+                },
+                {
+                    "facilityCode": 145,
+                    "facilityGroupCode": 40,
+                    "description": {
+                        "content": "Bus\/Train station"
+                    },
+                    "order": 1,
+                    "distance": 2200,
+                    "voucher": false
+                },
+                {
+                    "facilityCode": 80,
+                    "facilityGroupCode": 40,
+                    "description": {
+                        "content": "Airport"
+                    },
+                    "order": 1,
+                    "distance": 8900,
+                    "voucher": false
+                },
+                {
+                    "facilityCode": 260,
+                    "facilityGroupCode": 60,
+                    "description": {
+                        "content": "Disability-friendly bathroom"
+                    },
+                    "order": 1,
+                    "indLogic": false,
+                    "voucher": false
+                },
+                {
+                    "facilityCode": 20,
+                    "facilityGroupCode": 60,
+                    "description": {
+                        "content": "Shower"
+                    },
+                    "order": 1,
+                    "indLogic": true,
+                    "indFee": false,
+                    "voucher": false
+                },
+                {
+                    "facilityCode": 276,
+                    "facilityGroupCode": 60,
+                    "description": {
+                        "content": "Toiletries"
+                    },
+                    "order": 1,
+                    "indLogic": true,
+                    "indFee": false,
+                    "voucher": false
+                },
+                {
+                    "facilityCode": 261,
+                    "facilityGroupCode": 60,
+                    "description": {
+                        "content": "Wi-fi"
+                    },
+                    "order": 1,
+                    "indFee": false,
+                    "indYesOrNo": true,
+                    "voucher": false
+                },
+                {
+                    "facilityCode": 100,
+                    "facilityGroupCode": 60,
+                    "description": {
+                        "content": "Internet access"
+                    },
+                    "order": 1,
+                    "indLogic": true,
+                    "indFee": false,
+                    "voucher": false
+                },
+                {
+                    "facilityCode": 55,
+                    "facilityGroupCode": 60,
+                    "description": {
+                        "content": "TV"
+                    },
+                    "order": 1,
+                    "indLogic": true,
+                    "indFee": false,
+                    "voucher": false
+                },
+                {
+                    "facilityCode": 268,
+                    "facilityGroupCode": 60,
+                    "description": {
+                        "content": "220V power supply"
+                    },
+                    "order": 1,
+                    "indLogic": true,
+                    "indFee": false,
+                    "voucher": false
+                },
+                {
+                    "facilityCode": 180,
+                    "facilityGroupCode": 60,
+                    "description": {
+                        "content": "Individually adjustable air conditioning"
+                    },
+                    "order": 1,
+                    "indLogic": true,
+                    "indFee": false,
+                    "voucher": false
+                },
+                {
+                    "facilityCode": 286,
+                    "facilityGroupCode": 60,
+                    "description": {
+                        "content": "Fan"
+                    },
+                    "order": 1,
+                    "indLogic": true,
+                    "indFee": false,
+                    "voucher": false
+                },
+                {
+                    "facilityCode": 250,
+                    "facilityGroupCode": 60,
+                    "description": {
+                        "content": "Wheelchair-accessible"
+                    },
+                    "order": 1,
+                    "indYesOrNo": false,
+                    "voucher": false
+                },
+                {
+                    "facilityCode": 287,
+                    "facilityGroupCode": 60,
+                    "description": {
+                        "content": "Smoking rooms"
+                    },
+                    "order": 1,
+                    "indYesOrNo": false,
+                    "voucher": false
+                },
+                {
+                    "facilityCode": 300,
+                    "facilityGroupCode": 60,
+                    "description": {
+                        "content": "Housekeeping"
+                    },
+                    "order": 1,
+                    "indLogic": true,
+                    "indFee": false,
+                    "voucher": false
+                },
+                {
+                    "facilityCode": 275,
+                    "facilityGroupCode": 60,
+                    "description": {
+                        "content": "Extra beds on demand"
+                    },
+                    "order": 1,
+                    "indLogic": false,
+                    "indFee": false,
+                    "voucher": false
+                },
+                {
+                    "facilityCode": 295,
+                    "facilityGroupCode": 70,
+                    "description": {
+                        "content": "Wheelchair-accessible"
+                    },
+                    "order": 1,
+                    "indYesOrNo": false,
+                    "voucher": false
+                },
+                {
+                    "facilityCode": 320,
+                    "facilityGroupCode": 70,
+                    "description": {
+                        "content": "Car park"
+                    },
+                    "order": 1,
+                    "indFee": false,
+                    "indYesOrNo": false,
+                    "voucher": true
+                },
+                {
+                    "facilityCode": 30,
+                    "facilityGroupCode": 70,
+                    "description": {
+                        "content": "24-hour reception"
+                    },
+                    "order": 1,
+                    "indYesOrNo": true,
+                    "voucher": false
+                },
+                {
+                    "facilityCode": 260,
+                    "facilityGroupCode": 70,
+                    "description": {
+                        "content": "Check-in hour"
+                    },
+                    "order": 1,
+                    "timeFrom": "12:00:00",
+                    "timeTo": "00:00:00",
+                    "voucher": true
+                },
+                {
+                    "facilityCode": 390,
+                    "facilityGroupCode": 70,
+                    "description": {
+                        "content": "Check-out hour"
+                    },
+                    "order": 1,
+                    "timeFrom": "11:00:00",
+                    "timeTo": "11:00:00",
+                    "voucher": false
+                },
+                {
+                    "facilityCode": 550,
+                    "facilityGroupCode": 70,
+                    "description": {
+                        "content": "Wi-fi"
+                    },
+                    "order": 1,
+                    "indFee": false,
+                    "indYesOrNo": true,
+                    "voucher": false
+                },
+                {
+                    "facilityCode": 270,
+                    "facilityGroupCode": 70,
+                    "description": {
+                        "content": "Room service"
+                    },
+                    "order": 1,
+                    "indLogic": true,
+                    "indFee": false,
+                    "voucher": false
+                },
+                {
+                    "facilityCode": 280,
+                    "facilityGroupCode": 70,
+                    "description": {
+                        "content": "Laundry service"
+                    },
+                    "order": 1,
+                    "indLogic": true,
+                    "indFee": false,
+                    "voucher": false
+                },
+                {
+                    "facilityCode": 505,
+                    "facilityGroupCode": 70,
+                    "description": {
+                        "content": "Multilingual staff"
+                    },
+                    "order": 1,
+                    "indLogic": true,
+                    "indFee": false,
+                    "voucher": false
+                },
+                {
+                    "facilityCode": 520,
+                    "facilityGroupCode": 70,
+                    "description": {
+                        "content": "24-hour security"
+                    },
+                    "order": 1,
+                    "indLogic": true,
+                    "indFee": false,
+                    "voucher": false
+                },
+                {
+                    "facilityCode": 70,
+                    "facilityGroupCode": 70,
+                    "description": {
+                        "content": "Lift access"
+                    },
+                    "order": 1,
+                    "indLogic": true,
+                    "indFee": false,
+                    "voucher": false
+                },
+                {
+                    "facilityCode": 578,
+                    "facilityGroupCode": 70,
+                    "description": {
+                        "content": "Towels and bed linen"
+                    },
+                    "order": 1,
+                    "indLogic": true,
+                    "indFee": false,
+                    "voucher": false
+                },
+                {
+                    "facilityCode": 130,
+                    "facilityGroupCode": 71,
+                    "description": {
+                        "content": "Bar"
+                    },
+                    "order": 1,
+                    "indLogic": true,
+                    "indFee": false,
+                    "voucher": false
+                },
+                {
+                    "facilityCode": 200,
+                    "facilityGroupCode": 71,
+                    "description": {
+                        "content": "Restaurant"
+                    },
+                    "order": 1,
+                    "indLogic": true,
+                    "voucher": false
+                },
+                {
+                    "facilityCode": 170,
+                    "facilityGroupCode": 72,
+                    "description": {
+                        "content": "Conference room"
+                    },
+                    "order": 1,
+                    "indLogic": true,
+                    "voucher": false
+                },
+                {
+                    "facilityCode": 363,
+                    "facilityGroupCode": 73,
+                    "description": {
+                        "content": "Outdoor freshwater pool"
+                    },
+                    "order": 1,
+                    "number": 1,
+                    "voucher": false
+                },
+                {
+                    "facilityCode": 450,
+                    "facilityGroupCode": 74,
+                    "description": {
+                        "content": "Massage"
+                    },
+                    "order": 1,
+                    "indLogic": true,
+                    "indFee": false,
+                    "voucher": false
+                },
+                {
+                    "facilityCode": 620,
+                    "facilityGroupCode": 74,
+                    "description": {
+                        "content": "Spa centre"
+                    },
+                    "order": 1,
+                    "indLogic": true,
+                    "indFee": false,
+                    "voucher": false
+                },
+                {
+                    "facilityCode": 40,
+                    "facilityGroupCode": 80,
+                    "description": {
+                        "content": "Breakfast"
+                    },
+                    "order": 1,
+                    "indLogic": true,
+                    "voucher": false
+                },
+                {
+                    "facilityCode": 97,
+                    "facilityGroupCode": 91,
+                    "description": {
+                        "content": "Other Protocol"
+                    },
+                    "order": 1,
+                    "indLogic": true,
+                    "dateTo": "2049-12-31",
+                    "voucher": false
+                }
+            ],
+            "issues": [
+                {
+                    "issueCode": "COVID",
+                    "issueType": "COVID",
+                    "description": {
+                        "content": "Due to the pandemic, many accommodation and service providers may implement processes and policies to help protect the safety of all of us. This may result in the unavailability or changes in certain services and amenities that are normally available from them. More info here https:\/\/cutt.ly\/MT8BJcv"
+                    },
+                    "dateFrom": "2020-05-15",
+                    "dateTo": "2022-12-31",
+                    "order": 1,
+                    "alternative": false
+                }
+            ],
+            "interestPoints": [
+                {
+                    "facilityCode": 10,
+                    "facilityGroupCode": 100,
+                    "order": 1,
+                    "poiName": "5 by OYO - Metropolitan",
+                    "distance": "0"
+                },
+                {
+                    "facilityCode": 50,
+                    "facilityGroupCode": 100,
+                    "order": 1,
+                    "poiName": "Jalmahal",
+                    "distance": "8000"
+                },
+                {
+                    "facilityCode": 40,
+                    "facilityGroupCode": 100,
+                    "order": 1,
+                    "poiName": "Bramhpuri Road",
+                    "distance": "6500"
+                },
+                {
+                    "facilityCode": 30,
+                    "facilityGroupCode": 100,
+                    "order": 1,
+                    "poiName": "Hotel ibis Jaipur Restaurant",
+                    "distance": "1500"
+                },
+                {
+                    "facilityCode": 20,
+                    "facilityGroupCode": 100,
+                    "order": 1,
+                    "poiName": "Jantar Mantar",
+                    "distance": "3900"
+                }
+            ],
+            "images": [
+                {
+                    "type": {
+                        "code": "COM",
+                        "description": {
+                            "content": "Lobby"
+                        }
+                    },
+                    "path": "18\/180397\/180397a_hb_l_016.jpg",
+                    "order": 16,
+                    "visualOrder": 16
+                },
+                {
+                    "type": {
+                        "code": "HAB",
+                        "description": {
+                            "content": "Room"
+                        }
+                    },
+                    "path": "18\/180397\/180397a_hb_ro_012.jpg",
+                    "roomCode": "TPL.SU",
+                    "roomType": "TPL",
+                    "characteristicCode": "SU",
+                    "order": 12,
+                    "visualOrder": 12
+                },
+                {
+                    "type": {
+                        "code": "COM",
+                        "description": {
+                            "content": "Lobby"
+                        }
+                    },
+                    "path": "18\/180397\/180397a_hb_l_015.JPG",
+                    "order": 15,
+                    "visualOrder": 15
+                },
+                {
+                    "type": {
+                        "code": "COM",
+                        "description": {
+                            "content": "Lobby"
+                        }
+                    },
+                    "path": "18\/180397\/180397a_hb_l_017.jpg",
+                    "order": 17,
+                    "visualOrder": 17
+                },
+                {
+                    "type": {
+                        "code": "HAB",
+                        "description": {
+                            "content": "Room"
+                        }
+                    },
+                    "path": "18\/180397\/180397a_hb_ro_010.jpg",
+                    "roomCode": "TPL.CB",
+                    "roomType": "TPL",
+                    "characteristicCode": "CB",
+                    "order": 10,
+                    "visualOrder": 10
+                },
+                {
+                    "type": {
+                        "code": "HAB",
+                        "description": {
+                            "content": "Room"
+                        }
+                    },
+                    "path": "18\/180397\/180397a_hb_ro_011.JPG",
+                    "roomCode": "TPL.CB",
+                    "roomType": "TPL",
+                    "characteristicCode": "CB",
+                    "order": 11,
+                    "visualOrder": 11
+                },
+                {
+                    "type": {
+                        "code": "HAB",
+                        "description": {
+                            "content": "Room"
+                        }
+                    },
+                    "path": "18\/180397\/180397a_hb_ro_013.jpg",
+                    "roomCode": "TPL.CB",
+                    "roomType": "TPL",
+                    "characteristicCode": "CB",
+                    "order": 13,
+                    "visualOrder": 13
+                },
+                {
+                    "type": {
+                        "code": "HAB",
+                        "description": {
+                            "content": "Room"
+                        }
+                    },
+                    "path": "18\/180397\/180397a_hb_ro_018.JPG",
+                    "roomCode": "TPL.CV-1",
+                    "roomType": "TPL",
+                    "characteristicCode": "CV-1",
+                    "order": 18,
+                    "visualOrder": 18
+                },
+                {
+                    "type": {
+                        "code": "COM",
+                        "description": {
+                            "content": "Lobby"
+                        }
+                    },
+                    "path": "18\/180397\/180397a_hb_l_012.jpg",
+                    "order": 12,
+                    "visualOrder": 12
+                },
+                {
+                    "type": {
+                        "code": "HAB",
+                        "description": {
+                            "content": "Room"
+                        }
+                    },
+                    "path": "18\/180397\/180397a_hb_ro_016.jpg",
+                    "roomCode": "TPL.SU",
+                    "roomType": "TPL",
+                    "characteristicCode": "SU",
+                    "order": 16,
+                    "visualOrder": 16
+                },
+                {
+                    "type": {
+                        "code": "COM",
+                        "description": {
+                            "content": "Lobby"
+                        }
+                    },
+                    "path": "18\/180397\/180397a_hb_l_011.jpg",
+                    "order": 11,
+                    "visualOrder": 11
+                },
+                {
+                    "type": {
+                        "code": "HAB",
+                        "description": {
+                            "content": "Room"
+                        }
+                    },
+                    "path": "18\/180397\/180397a_hb_ro_015.jpg",
+                    "roomCode": "TPL.SU",
+                    "roomType": "TPL",
+                    "characteristicCode": "SU",
+                    "order": 15,
+                    "visualOrder": 15
+                },
+                {
+                    "type": {
+                        "code": "COM",
+                        "description": {
+                            "content": "Lobby"
+                        }
+                    },
+                    "path": "18\/180397\/180397a_hb_l_014.jpg",
+                    "order": 14,
+                    "visualOrder": 14
+                },
+                {
+                    "type": {
+                        "code": "HAB",
+                        "description": {
+                            "content": "Room"
+                        }
+                    },
+                    "path": "18\/180397\/180397a_hb_ro_014.jpg",
+                    "roomCode": "TPL.SU",
+                    "roomType": "TPL",
+                    "characteristicCode": "SU",
+                    "order": 14,
+                    "visualOrder": 14
+                },
+                {
+                    "type": {
+                        "code": "COM",
+                        "description": {
+                            "content": "Lobby"
+                        }
+                    },
+                    "path": "18\/180397\/180397a_hb_l_013.jpg",
+                    "order": 13,
+                    "visualOrder": 13
+                },
+                {
+                    "type": {
+                        "code": "BAR",
+                        "description": {
+                            "content": "Bar"
+                        }
+                    },
+                    "path": "18\/180397\/180397a_hb_ba_010.jpg",
+                    "order": 10,
+                    "visualOrder": 10
+                },
+                {
+                    "type": {
+                        "code": "BAR",
+                        "description": {
+                            "content": "Bar"
+                        }
+                    },
+                    "path": "18\/180397\/180397a_hb_ba_012.jpg",
+                    "order": 12,
+                    "visualOrder": 12
+                },
+                {
+                    "type": {
+                        "code": "BAR",
+                        "description": {
+                            "content": "Bar"
+                        }
+                    },
+                    "path": "18\/180397\/180397a_hb_ba_011.jpg",
+                    "order": 11,
+                    "visualOrder": 11
+                },
+                {
+                    "type": {
+                        "code": "BAR",
+                        "description": {
+                            "content": "Bar"
+                        }
+                    },
+                    "path": "18\/180397\/180397a_hb_ba_013.jpg",
+                    "order": 13,
+                    "visualOrder": 13
+                },
+                {
+                    "type": {
+                        "code": "HAB",
+                        "description": {
+                            "content": "Room"
+                        }
+                    },
+                    "path": "18\/180397\/180397a_hb_ro_004.JPG",
+                    "roomCode": "TPL.CV-1",
+                    "roomType": "TPL",
+                    "characteristicCode": "CV-1",
+                    "order": 4,
+                    "visualOrder": 4
+                },
+                {
+                    "type": {
+                        "code": "HAB",
+                        "description": {
+                            "content": "Room"
+                        }
+                    },
+                    "path": "18\/180397\/180397a_hb_ro_017.jpg",
+                    "roomCode": "TPL.CV-1",
+                    "roomType": "TPL",
+                    "characteristicCode": "CV-1",
+                    "order": 17,
+                    "visualOrder": 17
+                },
+                {
+                    "type": {
+                        "code": "RES",
+                        "description": {
+                            "content": "Restaurant"
+                        }
+                    },
+                    "path": "18\/180397\/180397a_hb_r_031.jpg",
+                    "order": 31,
+                    "visualOrder": 31
+                },
+                {
+                    "type": {
+                        "code": "RES",
+                        "description": {
+                            "content": "Restaurant"
+                        }
+                    },
+                    "path": "18\/180397\/180397a_hb_r_032.jpg",
+                    "order": 32,
+                    "visualOrder": 32
+                },
+                {
+                    "type": {
+                        "code": "HAB",
+                        "description": {
+                            "content": "Room"
+                        }
+                    },
+                    "path": "18\/180397\/180397a_hb_ro_008.jpg",
+                    "roomCode": "TPL.CV-1",
+                    "roomType": "TPL",
+                    "characteristicCode": "CV-1",
+                    "order": 8,
+                    "visualOrder": 8
+                },
+                {
+                    "type": {
+                        "code": "HAB",
+                        "description": {
+                            "content": "Room"
+                        }
+                    },
+                    "path": "18\/180397\/180397a_hb_ro_009.jpg",
+                    "roomCode": "TPL.CB",
+                    "roomType": "TPL",
+                    "characteristicCode": "CB",
+                    "order": 9,
+                    "visualOrder": 9
+                },
+                {
+                    "type": {
+                        "code": "GEN",
+                        "description": {
+                            "content": "General view"
+                        }
+                    },
+                    "path": "18\/180397\/180397a_hb_a_015.jpg",
+                    "order": 15,
+                    "visualOrder": 15
+                },
+                {
+                    "type": {
+                        "code": "HAB",
+                        "description": {
+                            "content": "Room"
+                        }
+                    },
+                    "path": "18\/180397\/180397a_hb_ro_005.jpg",
+                    "roomCode": "SUI.CV-1",
+                    "roomType": "SUI",
+                    "characteristicCode": "CV-1",
+                    "order": 5,
+                    "visualOrder": 5
+                },
+                {
+                    "type": {
+                        "code": "GEN",
+                        "description": {
+                            "content": "General view"
+                        }
+                    },
+                    "path": "18\/180397\/180397a_hb_a_016.jpg",
+                    "order": 16,
+                    "visualOrder": 16
+                },
+                {
+                    "type": {
+                        "code": "GEN",
+                        "description": {
+                            "content": "General view"
+                        }
+                    },
+                    "path": "18\/180397\/180397a_hb_a_017.jpg",
+                    "order": 17,
+                    "visualOrder": 17
+                },
+                {
+                    "type": {
+                        "code": "HAB",
+                        "description": {
+                            "content": "Room"
+                        }
+                    },
+                    "path": "18\/180397\/180397a_hb_ro_007.jpg",
+                    "roomCode": "SUI.CV-1",
+                    "roomType": "SUI",
+                    "characteristicCode": "CV-1",
+                    "order": 7,
+                    "visualOrder": 7
+                },
+                {
+                    "type": {
+                        "code": "HAB",
+                        "description": {
+                            "content": "Room"
+                        }
+                    },
+                    "path": "18\/180397\/180397a_hb_ro_001.jpg",
+                    "roomCode": "SUI.CV-1",
+                    "roomType": "SUI",
+                    "characteristicCode": "CV-1",
+                    "order": 1,
+                    "visualOrder": 1
+                },
+                {
+                    "type": {
+                        "code": "HAB",
+                        "description": {
+                            "content": "Room"
+                        }
+                    },
+                    "path": "18\/180397\/180397a_hb_ro_002.JPG",
+                    "roomCode": "SUI.CV-1",
+                    "roomType": "SUI",
+                    "characteristicCode": "CV-1",
+                    "order": 2,
+                    "visualOrder": 2
+                },
+                {
+                    "type": {
+                        "code": "HAB",
+                        "description": {
+                            "content": "Room"
+                        }
+                    },
+                    "path": "18\/180397\/180397a_hb_ro_003.jpg",
+                    "roomCode": "SUI.CV-1",
+                    "roomType": "SUI",
+                    "characteristicCode": "CV-1",
+                    "order": 3,
+                    "visualOrder": 3
+                }
+            ],
+            "web": "www.oyorooms.com\/79251",
+            "lastUpdate": "2022-04-12",
+            "ranking": 2147483647
+        }
+    }
+]
