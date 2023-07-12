@@ -78,6 +78,10 @@ class HomeController extends Controller
     public function getpopulardestinations(Request $request)
     {
         try {
+            if ($request->search_term != '') {
+
+
+            }
 
             if ($request->search_term != '') {
                 $bookingPopularPlaces = Destination::where(['status' => 1])->where('name', 'like', '%' . $request->search_term . '%')->orderBy('name')->select('name')->get();
@@ -135,7 +139,7 @@ class HomeController extends Controller
             $checkOut = date('Y-m-d', strtotime($checkOut));
 
 
-            
+
             $check_result_exist = SearchResults::select('id','created_at')
                 ->where([
                     ['destination', '=', $destination],
@@ -233,7 +237,7 @@ class HomeController extends Controller
                     $filterObj['minCategory'] = $min;
                     $filterObj['maxCategory'] = $max;
                 }
-                /*  
+                /*
                     "minCategory": 4,
 		            "maxCategory": 5,
                 */
@@ -265,7 +269,7 @@ class HomeController extends Controller
                         'Content-Type: application/json'
                     ),
                 ));
-                
+
                 $response = curl_exec($curl);
                 curl_close($curl);
                 $decodeData = json_decode($response);
@@ -390,7 +394,7 @@ class HomeController extends Controller
         $request->session()->put('hotel_session_detail', $request->get('hotel_session_data'));
         $hotel_detail = $request->session()->get('hotel_session_detail');
         $decoded_data = json_decode($hotel_detail);
-        
+
         //echo '<pre>';
         //print_r($decoded_data->code);die;
         return \Response::json(['hotel_id' => $decoded_data->code], 200);
@@ -398,7 +402,7 @@ class HomeController extends Controller
 
     public function hotelDetail(Request $request, $id)
     {
-        
+
         $hotel_session_data = $request->session()->get('hotel_session_detail');
         $hotel_previous_page_data = json_decode($hotel_session_data);
 
@@ -410,7 +414,7 @@ class HomeController extends Controller
         $apiKey = env('HOTEL_BEDS_API_KEY');
         $sharedSecret = env('HOTEL_BEDS_SECRET_KEY');
         $apiUrl = config('app.hote_bed_api_url_testing');
-        
+
         $signature = hash("sha256", $apiKey . $sharedSecret . time());
         // echo $signature;die;
         $minRateKey = '';
@@ -453,10 +457,10 @@ class HomeController extends Controller
 
             curl_close($curl2);
             //echo  $response2;die;
-            
-            
+
+
             $hotel_detail = json_decode($response2);
-            
+
             //echo '<pre>';
             //print_r($hotel_detail);die;
 
@@ -491,10 +495,10 @@ class HomeController extends Controller
         $checkin = date('Y-m-d',strtotime($checkin));
         $checkout = date('Y-m-d',strtotime($checkout));
         $hotelsdata = SearchResults::where([['check_in_date', '=', $checkin],['check_out_date','=',$checkout]])->get()->first();
-        
+
         $hotel_session_data = $request->session()->get('hotel_session_detail');
         $hotel_previous_page_data = json_decode($hotel_session_data);
-        
+
         // echo "<pre>";
         // print_r(json_decode($hotel_session_data));die;
         //echo '<pre>';
@@ -504,7 +508,7 @@ class HomeController extends Controller
         $apiKey = env('HOTEL_BEDS_API_KEY');
         $sharedSecret = env('HOTEL_BEDS_SECRET_KEY');
         $apiUrl = config('app.hote_bed_api_url_testing');
-        
+
         $signature = hash("sha256", $apiKey . $sharedSecret . time());
         $minRateKey = '';
 
@@ -519,15 +523,15 @@ class HomeController extends Controller
                 }
             }
         }
-        
+
 
         $loginUserData = User::where('id',Auth::id())->select('email','mobile')->get();
-        
+
 
         return view('bookings.booking-review', compact('hotel_previous_page_data','hotelsdata','loginUserData'));
 
             // return view('hotels.detail', ['hotel_detail_arr' => $hotel_detail_arr, 'hotel_previous_page_data' => $hotel_previous_page_data, 'minRateKey' => $minRateKey]);
-       
+
     }
 
     public function hotelroom(Request $request,$id,$rc)
@@ -537,12 +541,12 @@ class HomeController extends Controller
         $checkin = date('Y-m-d',strtotime($checkin));
         $checkout = date('Y-m-d',strtotime($checkout));
         $hotelsdata = SearchResults::where([['check_in_date', '=', $checkin],['check_out_date','=',$checkout]])->get()->first();
-        
+
         $hotel_session_data = $request->session()->get('hotel_session_detail');
         $hotel_previous_page_data = json_decode($hotel_session_data);
 
-        
-      
+
+
         //echo '<pre>';
 
         // $apiKey = '9ca5adce58604afb450de6904c1777ad';
@@ -550,7 +554,7 @@ class HomeController extends Controller
         $apiKey = env('HOTEL_BEDS_API_KEY');
         $sharedSecret = env('HOTEL_BEDS_SECRET_KEY');
         $apiUrl = config('app.hote_bed_api_url_testing');
-        
+
         $signature = hash("sha256", $apiKey . $sharedSecret . time());
         $minRateKey = '';
 
@@ -559,9 +563,9 @@ class HomeController extends Controller
                 if($value->code==$rc){
                     $get_zerokeyararray = $hotel_previous_page_data->rooms[0];
                     $hotel_previous_page_data->rooms[0] = $value;
-                    $hotel_previous_page_data->rooms[1] = $get_zerokeyararray;    
-                    // $minRateKey = $value->rates[0]->rateKey;                    
-                    $minRateKey = isset($value->rates[0]->rateKey)? $value->rates[0]->rateKey:$value->rates[0]->shiftRates[0]->rateKey;                    
+                    $hotel_previous_page_data->rooms[1] = $get_zerokeyararray;
+                    // $minRateKey = $value->rates[0]->rateKey;
+                    $minRateKey = isset($value->rates[0]->rateKey)? $value->rates[0]->rateKey:$value->rates[0]->shiftRates[0]->rateKey;
                 }
             }
         }
@@ -569,13 +573,13 @@ class HomeController extends Controller
         $encodeagainsession = json_encode($hotel_previous_page_data);
         $request->session()->put('hotel_session_detail', $encodeagainsession);
         $hotel_session_data = $request->session()->get('hotel_session_detail');
-        
+
         $hotel_previous_page_data = json_decode($hotel_session_data);
         // echo "<pre>";
         // print_r($hotel_previous_page_data);die;
-        
+
         $loginUserData = User::where('id',Auth::id())->select('email','mobile')->get();
-        
+
 
         return view('bookings.booking-review', compact('hotel_previous_page_data','hotelsdata','loginUserData'));
 
