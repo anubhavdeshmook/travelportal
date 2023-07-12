@@ -79,11 +79,6 @@ class HomeController extends Controller
     {
         try {
             if ($request->search_term != '') {
-
-
-            }
-
-            if ($request->search_term != '') {
                 $bookingPopularPlaces = Destination::where(['status' => 1])->where('name', 'like', '%' . $request->search_term . '%')->orderBy('name')->select('name')->get();
             } else if ($request->search_term == 'all') {
                 $bookingPopularPlaces = Destination::where(['status' => 1])->orderBy('name')->select('name')->get();
