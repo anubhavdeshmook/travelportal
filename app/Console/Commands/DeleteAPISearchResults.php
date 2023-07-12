@@ -39,6 +39,6 @@ class DeleteAPISearchResults extends Command
     public function handle()
     {
         \DB::table('api_search_results')->delete();
-        $this->info('Search api results deleted.');
+      return $this->info('Search api results deleted.');
     }
 }
